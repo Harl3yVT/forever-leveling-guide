@@ -236,6 +236,9 @@ Hall of Thanes follows at 13–14 in Loch Modan.
 Follow the road into Ironforge through its main entrance.
 Turn in [QT291].
 [A Warrior] [G70.34,90.65 Ironforge] [T] At Kelv Sternhammer, learn Bloodrage and Rend II.
+[A Warrior] Talents 10: Improved Rend 1 (/ak talents).
+[A Rogue] Talents 10: Remorseless Attacks 1 (/ak talents).
+[A Paladin] Talents 10: Benediction 1 (/ak talents).
 [A Warrior] [OC] [G70.77,90.27 Ironforge] Turn in [QT1679] if carrying it.
 [A Warrior] Accept [QA1678].
 [A Warrior] Leave Ironforge by its main gate, follow the road through Kharanos toward Frostmane Hold, then climb the foothill path just south of the Hold to Vejrek's hut. Defeat level-11 Vejrek and take his head for [QC1678].

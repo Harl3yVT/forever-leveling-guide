@@ -88,5 +88,9 @@ Accept [QA6141].
 Take the boat at Stormwind Harbor to Auberdine.
 [G69.54,67.75 Darnassus] [O] Only if you looted Treshala's Pendant: take the Rut'theran boat from Auberdine and the portal into Darnassus, then turn in [QT1142]. Otherwise skip it; it's a level-30 quest and worth little now.
 [A Warrior,Hunter,Rogue] [G57.56,46.73 Darnassus] [T] [LE Bows 1-] [O] At Ilyenia Moonfire, learn Bows if needed for a weapon you plan to use.
+[A Warrior] Talents 33-34: Weaponmaster 2 (/ak talents).
+[A Rogue] Talents 33-34: Dual Wield Specialization 2 (/ak talents).
+[A Druid] Talents 33-34: Natural Instinct 2 (/ak talents).
+[A Paladin] Talents 33-34: Conviction 3 (/ak talents).
 Finish in Auberdine, or in Darnassus if you took the pendant detour. Keep the Desolace and Scarlet Monastery deliveries, Southshore letters and carried Stranglethorn/Flats quests.
 ]], "Harley Mage")

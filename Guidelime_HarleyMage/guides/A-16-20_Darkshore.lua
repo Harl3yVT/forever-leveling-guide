@@ -127,6 +127,10 @@ Turn in [QT97237] to Roy Lewells in the Mage Quarter park. [O]
 [A Hunter] [G67.35,36.25 Stormwind City] [T] At Einris Brightspear, learn Aspect of the Hawk II, Multi-Shot I, Serpent Sting III and Track Undead.
 [A Hunter] [G67.32,36.81 Stormwind City] [T] At Karrina Mekenda, learn Great Stamina III, Natural Armor III. Open Beast Training and teach the usable ranks to your active pet as its level and training points allow.
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Entangling Roots II, Faerie Fire I, Hibernate I, Maul II, Nature's Grasp II and Regrowth II.
+[A Warrior] Talents 17-18: Improved Tactical Mastery 2 (/ak talents).
+[A Rogue] Talents 17-18: Deflection 2 (/ak talents).
+[A Druid] Talents 17-18: Feral Instinct 2 (/ak talents).
+[A Paladin] Talents 17-18: Sanctified Judgement 3, Improved Judgement 1 (/ak talents).
 [V] Repair, restock and clear bags. Train available abilities and chosen professions.
 [L36.34,45.58 Darkshore] [H Auberdine] [O] Hearth to Auberdine if ready; otherwise take the boat back from Stormwind Harbor.
 Turn in [QT97926].

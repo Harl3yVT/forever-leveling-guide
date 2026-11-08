@@ -202,6 +202,9 @@ Turn in [QT39] and [QT76].
 [A Mage] Accept [QA1860] from Zaldimar Wefhellt upstairs in the inn.
 [A Rogue] Accept [QA2205] from Keryn Sylvius upstairs in the inn.
 [A Warrior] [G41.09,65.77 Elwynn Forest] [T] At Lyria Du Lac, learn Bloodrage and Rend II.
+[A Warrior] Talents 10: Improved Rend 1 (/ak talents).
+[A Rogue] Talents 10: Remorseless Attacks 1 (/ak talents).
+[A Paladin] Talents 10: Benediction 1 (/ak talents).
 [A Warrior] Accept [QA1638]; keep the training message for Stormwind.
 [A Hunter] Accept [QA94792].
 [A Hunter] Use the Taming Rod on an isolated Rockhide Boar for [QC94792], then return to Josephine.

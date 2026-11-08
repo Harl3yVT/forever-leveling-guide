@@ -138,6 +138,10 @@ Buy a Bronze Tube for Viktori's telescope in Duskwood. [CI4371,1]
 [A Mage] [G49.56,85.80 Stormwind City] [T] At Jennea Cannon, learn Conjure Food III, Fire Blast III, Frost Ward I and Scorch I.
 [A Hunter] [G67.35,36.25 Stormwind City] [T] At Einris Brightspear, learn Hunter's Mark II and Scorpid Sting I.
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Moonfire IV, Rejuvenation IV, Soothe Animal I and Wrath IV.
+[A Warrior] Talents 21-22: Deep Wounds 2 (/ak talents).
+[A Rogue] Talents 21-22: Precision 2, Riposte 1 (/ak talents).
+[A Druid] Talents 21-22: Savage Fury 2 (/ak talents).
+[A Paladin] Talents 21-22: Pursuit of Justice 2, Divine Strength 1 (/ak talents).
 [V] Repair, restock and train available abilities and chosen professions.
 [A Rogue] Turn in [QT2359] to learn Poisons. Keep Recipe: Thistle Tea; learn the recipe when your Cooking allows.
 [A Rogue] Accept [QA2607].

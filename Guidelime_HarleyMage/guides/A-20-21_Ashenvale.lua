@@ -59,6 +59,11 @@ Accept [QA991] from Raene Wolfrunner.
 [A Mage] [G47.44,82.46 Stormwind City] [V] Buy Runes of Teleportation from Owen Vaughn.
 [A Hunter] [G67.35,36.25 Stormwind City] [T] At Einris Brightspear, learn Aimed Shot I, Arcane Shot III, Aspect of the Cheetah, Disengage I, Distracting Shot II, Dual Wield, Freezing Trap I and Mend Pet II.
 [A Hunter] [G67.32,36.81 Stormwind City] [T] At Karrina Mekenda, learn Growl III. Open Beast Training and teach the usable ranks to your active pet as its level and training points allow.
+[A Warrior] Talents 19-20: Improved Tactical Mastery 3, Anger Management 1 (/ak talents).
+[A Rogue] Talents 19-20: Deflection 3, Precision 1 (/ak talents).
+[A Druid] Talents 19-20: Feral Instinct 3, Feral Charge 1 (/ak talents).
+[A Paladin] Talents 19-20: Improved Judgement 2, Pursuit of Justice 1 (/ak talents).
+[O] Professions: Tailoring ~100: switch to Wool (Bolts of Woolen Cloth, Gray Woolen Shirts). Enchanting ~100: Lesser Magic Essences and Minor Absorption / Lesser Spirit on your own gear.
 [A Druid,Skyborne,NightElf] [G63.11,74.94 Stormwind City] [V] Buy Maple Seeds from Kyra Boucher for Rebirth.
 [A Druid,Skyborne,NightElf] [SP18960-] Cast Teleport: Moonglade.
 [A Druid,Skyborne,NightElf] Ask Silva Fil'naveth at 44.15,45.23 for the Druid flight to Rut'theran, then use the portal into Darnassus.

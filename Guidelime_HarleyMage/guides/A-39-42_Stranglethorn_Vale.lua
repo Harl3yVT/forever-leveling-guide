@@ -50,7 +50,7 @@ At the Cathedral portal, join a five-player party with a tank and healer, then u
 Defeat Mograine and Whitemane through the resurrection phase for [QC1053].
 Hearth to Southshore if ready; otherwise return by the Tirisfal and Silverpine approach. [H Southshore] [O]
 Turn in [QT1053].
-[G57.91,48.79 Alterac Mountains] [XP40] Reach level 40 before class training and Razorfen Downs. If needed, hunt Syndicate Spies on the outer camp slopes; avoid the northern elite ruins and stronger assassins.
+[G57.91,48.79 Alterac Mountains] [XP40] Reach level 40 before class training and Razorfen Downs. Expect to be up to a third of a level short (Forever gives less dungeon XP): hunt Syndicate Spies on the outer camp slopes; avoid the northern elite ruins and stronger assassins.
 Return to Southshore and fly to Stormwind. [G49.34,52.27 Hillsbrad Foothills] [F Stormwind]
 [A Priest] [G49.53,44.60 Stormwind City] [T] At High Priestess Laurena, learn Mind Blast VI, Shadow Word: Death II, Greater Heal I, Inner Fire IV, Fade IV, Divine Spirit II and Feedback III (1g 30s each). Skip Penance II; the Shadow respec removes Penance.
 [A Priest] [G49.53,44.60 Stormwind City] [T] [O] If gold allows after the mount, also learn Mana Burn III, Prayer of Healing II and Shackle Undead II (1g 30s each). They can wait.
@@ -74,6 +74,11 @@ Return to Southshore and fly to Stormwind. [G49.34,52.27 Hillsbrad Foothills] [F
 [A Hunter] [G67.35,36.25 Stormwind City] [T] At Einris Brightspear, learn Aspect of the Beast II, Aspect of the Pack, Distracting Shot IV, Freezing Trap II, Hunter's Mark III, Mail, Raptor Strike VI, Track Giants and Volley I.
 [A Hunter] [G67.32,36.81 Stormwind City] [T] At Karrina Mekenda, learn Growl V. Open Beast Training and teach the usable ranks to your active pet as its level and training points allow.
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Cower II, Dire Bear Form, Feline Grace, Ferocious Bite III, Hurricane I, Innervate, Mark of the Wild V, Moonfire VII, Prowl II, Rebirth III, Rejuvenation VII and Tranquility II.
+[A Warrior] Talents 39-40: Weaponmaster 5, Mortal Strike 1 (/ak talents).
+[A Rogue] Talents 39-40: Hack and Slash 5, Flash of Steel 1 (/ak talents).
+[A Druid] Talents 39-40: Rend and Tear 5, Shifting Power 1 (/ak talents).
+[A Paladin] Talents 39-40: Two-Handed Weapon Specialization 3, Vengeance 1 (/ak talents).
+[O] Professions: Tailoring and Enchanting 200+ at level 35: train Artisan (Tailoring: Georgio Bolero, Stormwind Mage Quarter; Enchanting: Kitta Firewind, Tower of Azora, Elwynn Forest).
 [A Druid] [G63.11,74.94 Stormwind City] [V] Buy Ashwood Seeds from Kyra Boucher for your new Rebirth rank.
 Accept [QA4488]. [A Warlock]
 [A Warlock] [O] Summon Felsteed is free. If the spell asks for riding skill, learn Apprentice Riding from Randal Hunter in Eastvale.
@@ -136,7 +141,7 @@ Accept [QA576].
 Turn in [QT607], then accept [QA609].
 Turn in [QT599], then accept [QA604].
 Accept [QA587].
-[XP41] Reach level 41 before the southern group circuit. If short, hunt isolated level 40-41 Jungle Stalkers on open ground with companions at the hunting grounds.
+[XP41] Reach level 41 before the southern group circuit. You can be most of a level short here (Forever halves dungeon XP): hunt isolated level 40-41 Jungle Stalkers on open ground with companions, or do the southern circuit at 40 in a group.
 At the southern Bloodsail shore, form a party for the pirate objectives.
 At the southern Bloodsail camps, kill ten Swashbucklers, collect fifteen Snuff and recover Dizzy's Eye. Take the Charts and Orders from the shore camp for [QC604], [QC587], and [QC576].
 [G35.05,60.88 Stranglethorn Vale] Reach Unbagwa's cave and finish collecting ten Gorilla Fangs from nearby gorillas. Form a party with area damage or crowd control for Mokk's waves, then give the fangs to Unbagwa to begin.

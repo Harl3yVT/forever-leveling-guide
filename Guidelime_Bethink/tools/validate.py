@@ -1,9 +1,17 @@
 #!/usr/bin/env python3
 """Validate a guide manifest (Python 3.10+).
 
-Usage: python3 tools/validate.py [manifest.toc]
+Usage: python3 tools/validate.py [manifest.toc] [--check-training 2-42]
 Defaults to the only TOC beside tools/.
 Exit codes: 0 valid within supported checks; 1 validation/input error; 2 CLI error.
+
+Optional training-coverage check (warnings only, never changes the exit code):
+enable it with `## X-CheckTraining: 2-42` in the manifest or `--check-training 2-42`.
+For every class named in an [A ...] filter on a [T] step, it warns about each even
+level in the range with no [T] step for that class at that level or the level after.
+A step's level is an explicit "level-N"/"level N"/"(N)" in its text, otherwise it is
+interpolated from the chapter's [N A-B ...] range and its [XP N] markers by position.
+Accepted gaps: `## X-CheckTraining-Allow: Mage:24,26; Priest:30` (class:levels; ...).
 """
 
 import argparse
@@ -13,9 +21,9 @@ import re
 import sys
 
 try:
-    from .guide_parser import Diagnostic, Guide, ParseError, SourceLocation, read_guide, validate_guide
+    from .guide_parser import Applicability, Diagnostic, Guide, ParseError, SourceLocation, Text, read_guide, validate_guide
 except ImportError:  # Direct execution: python3 tools/validate.py
-    from guide_parser import Diagnostic, Guide, ParseError, SourceLocation, read_guide, validate_guide
+    from guide_parser import Applicability, Diagnostic, Guide, ParseError, SourceLocation, Text, read_guide, validate_guide
 
 
 @dataclass(frozen=True)
@@ -91,9 +99,92 @@ def validate_manifest(path: str | Path) -> ValidationResult:
     return ValidationResult(files, tuple(guides), tuple(diagnostics))
 
 
+_LEVEL_TEXT = re.compile(r"\blevel[- ]([0-9]{1,2})\b|\(([0-9]{1,2})\)", re.I)
+
+
+def _manifest_field(path, name):
+    try:
+        text = Path(path).read_text(encoding="utf-8-sig")
+    except (OSError, UnicodeError):
+        return None
+    match = re.search(rf"^\s*##\s*{re.escape(name)}:\s*(.*?)\s*$", text, re.M)
+    return match[1] if match else None
+
+
+def parse_level_range(text):
+    match = re.fullmatch(r"\s*([0-9]+)\s*-\s*([0-9]+)\s*", text or "")
+    if not match or int(match[1]) > int(match[2]):
+        raise ValueError(f"Expected a level range such as 2-42, got {text!r}")
+    return int(match[1]), int(match[2])
+
+
+def parse_allow(text):
+    allowed = {}
+    for part in (text or "").split(";"):
+        if ":" in part:
+            name, levels = part.split(":", 1)
+            allowed.setdefault(name.strip(), set()).update(
+                int(n) for n in re.findall(r"[0-9]+", levels))
+    return allowed
+
+
+def training_steps(guide):
+    """Yield (classes, level, step) for each class-filtered [T] step, with an inferred level."""
+    match = re.match(r"([0-9]+)-([0-9]+)", guide.name or "")
+    if not match:
+        return
+    start, end = int(match[1]), int(match[2])
+    steps = guide.steps
+    anchors = [(0, start)]
+    for index, step in enumerate(steps):
+        for tag in step.tags:
+            if tag.code == "XP" and isinstance(tag.value, int):
+                anchors.append((index, tag.value))
+    anchors.append((len(steps), end))
+    anchors.sort()
+
+    def interpolate(index):
+        for (i0, l0), (i1, l1) in zip(anchors, anchors[1:]):
+            if i0 <= index <= i1:
+                return l0 if i1 == i0 else l0 + (l1 - l0) * (index - i0) / (i1 - i0)
+        return end
+
+    for index, step in enumerate(steps):
+        if not any(tag.code == "T" for tag in step.tags):
+            continue
+        classes = [c.name for tag in step.tags if tag.code == "A" and isinstance(tag.value, Applicability)
+                   for c in tag.value.conditions if c.kind == "class"]
+        if not classes:
+            continue
+        text = " ".join(e.text for e in step.elements if isinstance(e, Text))
+        explicit = _LEVEL_TEXT.search(text)
+        level = int(explicit[1] or explicit[2]) if explicit else int(interpolate(index) + 0.5)
+        yield classes, level, step
+
+
+def check_training(guides, level_range, allowed=None):
+    """Return (warnings, allowed_gaps): lists of (class, level) gaps, sorted."""
+    low, high = level_range
+    found = {}
+    for guide in guides:
+        for classes, level, _ in training_steps(guide):
+            for name in classes:
+                found.setdefault(name, set()).add(level)
+    allowed = allowed or {}
+    warnings, accepted = [], []
+    for name in sorted(found):
+        for level in range(low + low % 2, high + 1, 2):
+            if level in found[name] or level + 1 in found[name]:
+                continue
+            (accepted if level in allowed.get(name, ()) else warnings).append((name, level))
+    return warnings, accepted
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("manifest", nargs="?", type=Path, help="Guide manifest (.toc)")
+    parser.add_argument("--check-training", metavar="A-B",
+                        help="Warn about even levels A..B with no class [T] step (overrides X-CheckTraining)")
     args = parser.parse_args(argv)
     path = args.manifest
     if path is None:
@@ -107,6 +198,22 @@ def main(argv=None):
     steps = sum(len(guide.steps) for guide in result.guides)
     print(f"Checked {result.files} files / {len(result.guides)} guides / {steps} action or text steps; "
           f"{len(result.diagnostics)} errors.")
+    level_text = args.check_training or _manifest_field(path, "X-CheckTraining")
+    if level_text:
+        try:
+            level_range = parse_level_range(level_text)
+        except ValueError as exc:
+            parser.error(str(exc))
+        warnings, accepted = check_training(result.guides, level_range,
+                                            parse_allow(_manifest_field(path, "X-CheckTraining-Allow")))
+        for name, level in warnings:
+            print(f"warning: training: {name} has no [T] step at level {level} or {level + 1}")
+        summary = {}
+        for name, level in accepted:
+            summary.setdefault(name, []).append(level)
+        allowed_text = "; ".join(f"{n} {','.join(map(str, ls))}" for n, ls in summary.items())
+        print(f"Training coverage {level_range[0]}-{level_range[1]}: {len(warnings)} warnings, "
+              f"{len(accepted)} allowed gaps{' (' + allowed_text + ')' if allowed_text else ''}.")
     return 1 if result.diagnostics else 0
 
 

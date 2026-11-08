@@ -102,6 +102,11 @@ Turn in [QT1050].
 [A Hunter] [G70.86,85.83 Ironforge] [T] At Belia Thundergranite, learn Great Stamina VI, Natural Armor VI. Open Beast Training and teach the usable ranks to your active pet as its level and training points allow.
 [A Druid] Take the Deeprun Tram to Stormwind for Druid training.
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Frenzied Regeneration, Pounce I, Regrowth V, Revive III and Rip III.
+[A Warrior] Talents 35-36: Improved Slam 2 (/ak talents).
+[A Rogue] Talents 35-36: Hack and Slash 2 (/ak talents).
+[A Druid] Talents 35-36: Rend and Tear 2 (/ak talents).
+[A Paladin] Talents 35-36: Sacred Arbiter 1, Seal of Command 1 (/ak talents).
+[O] Professions: Tailoring ~200: Mageweave starts dropping; Bolts of Mageweave. Enchanting ~180-200: Bracer - Lesser Strength or Spirit, Greater Mystic Wand.
 [A Druid] Take the Deeprun Tram back to Ironforge before continuing.
 [V] Repair, restock and train available abilities and chosen professions.
 Fly to Southshore. [G55.50,47.75 Ironforge] [F Southshore]

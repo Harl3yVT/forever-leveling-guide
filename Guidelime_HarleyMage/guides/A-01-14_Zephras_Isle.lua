@@ -202,6 +202,9 @@ Accept [QA93320].
 [A Rogue] [G59.56,73.14 Zephras Isle] [T] At Eltheen Nightbreeze, learn Dual Wield, Sap I, Slice and Dice I and Sprint I.
 [A Rogue] [G57.88,77.04 Zephras Isle] [V] At Zelena Favorbreeze's Auction House, buy a usable weapon upgrade and an off-hand dagger; equip both weapons after learning Dual Wield.
 [A Mage] [G65.93,80.52 Zephras Isle] [T] At Anathamaas Aetherwind, learn Frost Nova I, Conjure Water II and Frost Armor II.
+[A Warrior] Talents 10: Improved Rend 1 (/ak talents).
+[A Rogue] Talents 10: Remorseless Attacks 1 (/ak talents).
+[A Druid] Talents 10: Ferocity 1 (/ak talents).
 [A Mage] [O] Talents from 10 to 14: Improved Frostbolt 1/5 to 5/5. With the Talented Legacy perk, start earlier and finish it first. The MageKit talent button (/mk talents) shows the next pick.
 [A Hunter,Skyborne] [OC] [G59.61,72.65 Zephras Isle] Turn in [QT94007] to Quel'ana Quickgale if carrying Elayaa's referral.
 [A Hunter,Skyborne] Accept [QA94978].
@@ -274,6 +277,10 @@ Turn in [QT94896] and [QT94897].
 [A Druid,Skyborne] [G64.01,75.10 Zephras Isle] [T] Learn Enrage, Regrowth I and Revive I from Lotheluum Starbreeze.
 [A Hunter] [G59.61,72.65 Zephras Isle] [T] At Quel'ana Quickgale, learn Arcane Shot II, Distracting Shot I, Mend Pet I and Wing Clip I.
 [A Hunter] [G59.62,72.59 Zephras Isle] [T] At Quel'dora Quickgale, learn Great Stamina II, Natural Armor II. Open Beast Training and teach the usable ranks to your active pet as its level and training points allow.
+[A Warrior] Talents 11-12: Improved Rend 3 (/ak talents).
+[A Rogue] Talents 11-12: Remorseless Attacks 2, Efficient Strikes 1 (/ak talents).
+[A Druid] Talents 11-12: Ferocity 3 (/ak talents).
+[O] Professions: Tailoring + Enchanting: train Apprentice in both if you have not. Tailoring: Bolts of Linen Cloth and Brown Linen gear to 50+. Enchanting: disenchant soulbound greens with the /ak de prompt, then Runed Copper Rod.
 [A Engineering,IT5956<1] [OC] [G58.93,75.52 Zephras Isle] [CI5956,1] Buy a Blacksmith Hammer from Iallion Featherfall; keep it in your bags.
 Turn in [QT93065], then accept [QA92947].
 At the Shrine of Akir approach, form a party for the linked packs. Clear seven Guardians, seven Spiritcallers and seven Blademasters, then report to Hyusaa for [QC92947].
@@ -293,6 +300,9 @@ Turn in [QT94369], then accept [QA93089].
 [A Mage] [G65.93,80.52 Zephras Isle] [T] At Anathamaas Aetherwind, learn Arcane Intellect II, Frostbolt III, Fire Blast II and Arcane Explosion I.
 [A Mage] [O] Conjure a full stack of water and some food before the voyage; the MageKit Conjure button picks the highest rank.
 [A Hunter] [G59.61,72.65 Zephras Isle] [T] At Quel'ana Quickgale, learn Eagle Eye, Eyes of the Beast and Scare Beast I. Restock ammunition and suitable pet food before the voyage.
+[A Warrior] Talents 13-14: Deflection 2 (/ak talents).
+[A Rogue] Talents 13-14: Efficient Strikes 2, Coup de Grace 1 (/ak talents).
+[A Druid] Talents 13-14: Ferocity 5 (/ak talents).
 Turn in [QT93089], then accept [QA94946].
 [G65.90,83.50 Zephras Isle] Board the eastern skycutter for Dalaran.
 Turn in [QT94946].

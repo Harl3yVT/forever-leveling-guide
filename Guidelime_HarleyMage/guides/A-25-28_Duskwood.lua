@@ -76,6 +76,11 @@ Accept [QA387].
 [A Mage] [G49.56,85.80 Stormwind City] [T] At Jennea Cannon, learn Cone of Cold I, Frost Nova II and Frostbolt V.
 [A Hunter] [G67.35,36.25 Stormwind City] [T] At Einris Brightspear, learn Immolation Trap II, Rapid Fire, Serpent Sting IV and Track Elementals.
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Abolish Poison, Dash I, Healing Touch V, Maul III and Starfire II.
+[A Warrior] Talents 25-26: Two-Handed Weapon Specialization 2 (/ak talents).
+[A Rogue] Talents 25-26: Endurance 2, Composure 1 (/ak talents).
+[A Druid] Talents 25-26: Predatory Discipline 1, Lacerate 1 (/ak talents).
+[A Paladin] Talents 25-26: Divine Strength 5 (/ak talents).
+[O] Professions: Tailoring and Enchanting 125: train Expert (level 20+). Save Silk from here on for Bolts of Silk; disenchant every soulbound green.
 [V] Repair, restock and train available abilities and chosen professions.
 At the Stockades entrance, join a five-player party with a tank and healer ready for the level-29 final boss.
 Clear the Stockades together, including side rooms for named prisoners. Clear around Dextren before his fear.

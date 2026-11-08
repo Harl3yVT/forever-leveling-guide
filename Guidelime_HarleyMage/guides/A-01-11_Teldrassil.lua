@@ -170,6 +170,9 @@ Turn in [QT7383], then accept [QA935].
 [A Druid] Accept [QA5925].
 [A Warrior] Accept [QA1684] from Kyra Windblade.
 [A Rogue] [G56.38,60.14 Teldrassil] [T] At Jannok Breezesong, learn Dual Wield, Sap I, Slice and Dice I and Sprint I.
+[A Warrior] Talents 10: Improved Rend 1 (/ak talents).
+[A Rogue] Talents 10: Remorseless Attacks 1 (/ak talents).
+[A Druid] Talents 10: Ferocity 1 (/ak talents).
 [A Rogue] Accept [QA2241].
 [A Priest] Accept [QA5629] from Laurna Morninglight.
 [A Hunter] Accept [QA6063].

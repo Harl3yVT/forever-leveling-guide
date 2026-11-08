@@ -24,6 +24,10 @@ Guidelime.registerGuide([[
 [V] Repair, restock and train available abilities and chosen professions.
 Take the Deeprun Tram to Ironforge. [G69.55,31.26 Stormwind City]
 [A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Fire Resistance Totem I, Flame Shock III, Flametongue Totem I, Frostbrand Weapon II, Lesser Healing Wave II, Stoneclaw Totem III and Water Walking. Keep a few Fish Oil for Water Walking.
+[A Warrior] Talents 27-28: Two-Handed Weapon Specialization 3, Spearing Strike 1 (/ak talents).
+[A Rogue] Talents 27-28: Flawless Execution 1, Weapon Expertise 1 (/ak talents).
+[A Druid] Talents 27-28: Blood Frenzy 2 (/ak talents).
+[A Paladin] Talents 27-28: Improved Seals 2 (/ak talents).
 [G55.50,47.74 Ironforge] [F Menethil Harbor]
 Accept [QA464], [QA98221] and [QA98230] from Captain Stoutfist.
 Accept [QA98240] from James Halloran on the docks.
@@ -87,6 +91,11 @@ Accept [QA92456].
 [A Warlock] [O] Short on gold? Subjugate Demon and Hellfire can wait until the next visit.
 [A Warlock] [O] Felhunter (optional; the Voidwalker stays the better leveling pet): accept [QA1798] from Gakin. The chain runs through Ratchet, Ironforge, Hillsbrad, Thousand Needles and the Wetlands.
 [A Warrior] [G80.55,59.87 Stormwind City] [T] At Wu Shen, learn Cleave II, Rend IV and Slam II.
+[A Warrior] Talents 29-30: Improved Charge 2, Sweeping Strikes 1 (/ak talents).
+[A Rogue] Talents 29-30: Weapon Expertise 2, Aggression 1 (/ak talents).
+[A Druid] Talents 29-30: Predatory Strikes 1, Leader of the Pack 1 (/ak talents).
+[A Paladin] Talents 29-30: Improved Seals 4 (/ak talents).
+[O] Professions: Tailoring ~150-175: Bolts of Silk, Azure Silk Hood, Silk Headbands. Enchanting ~150: Lesser Mystic Wand, Bracer - Lesser Stamina.
 [A Warrior] Accept [QA1718].
 [A Warrior] [G70.95,72.51 Stormwind City] [F Darkshire] Fly to Darkshire, follow Duskwood's western road south into Stranglethorn, then stay on the main road to Booty Bay. Pass Grom'gol without entering it.
 [A Warrior] [G27.52,77.79 Stranglethorn Vale] [P Booty Bay] Collect the flight point on arrival, then take the Ratchet ship.

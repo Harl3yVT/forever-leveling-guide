@@ -83,6 +83,10 @@ Turn in [QT98459] to Bart Tidewater.
 [A Hunter] [G70.86,85.83 Ironforge] [T] At Belia Thundergranite, learn Great Stamina IV, Natural Armor IV. Open Beast Training and teach the usable ranks to your active pet as its level and training points allow.
 [A Druid] Take the Deeprun Tram to Stormwind for Druid training.
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Ferocious Bite I, Rake I, Regrowth III, Remove Curse, Revive II, Swipe II and Thorns III.
+[A Warrior] Talents 23-24: Deep Wounds 3, Improved Charge 1 (/ak talents).
+[A Rogue] Talents 23-24: Precision 3, Endurance 1 (/ak talents).
+[A Druid] Talents 23-24: Sharpened Claws 2 (/ak talents).
+[A Paladin] Talents 23-24: Divine Strength 3 (/ak talents).
 [A Druid] Take the Deeprun Tram back to Ironforge before continuing.
 [G52.70,6.08 Ironforge] [A Warlock] Buy and use Imp Fire Shield II and Voidwalker Sacrifice II / Suffering I from Jubahl.
 [V] Repair and restock.

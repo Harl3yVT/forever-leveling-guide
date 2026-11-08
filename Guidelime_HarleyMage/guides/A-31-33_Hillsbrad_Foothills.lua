@@ -97,6 +97,10 @@ Take the tram to Stormwind, then turn in [QT563].
 [A Mage] [G49.56,85.80 Stormwind City] [T] At Jennea Cannon, learn Frostbolt VI, Conjure Food IV, Arcane Missiles IV and Flamestrike III.
 [A Hunter] [G67.35,36.25 Stormwind City] [T] At Einris Brightspear, learn Flare, Raptor Strike V and Track Demons.
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Demoralizing Roar III, Ferocious Bite II, Healing Touch VI, Poised, Ravage I and Track Humanoids.
+[A Warrior] Talents 31-32: Bloodthrill 2 (/ak talents).
+[A Rogue] Talents 31-32: Aggression 2, Blade Flurry 1 (/ak talents).
+[A Druid] Talents 31-32: Predatory Strikes 3 (/ak talents).
+[A Paladin] Talents 31-32: Improved Seals 5, Conviction 1 (/ak talents).
 [V] Repair, restock and train available abilities and chosen professions.
 Fly to Darkshire and bind for the western graveyard returns. [G70.95,72.51 Stormwind City] [F Darkshire]
 [G73.87,44.41 Duskwood] [S Darkshire]

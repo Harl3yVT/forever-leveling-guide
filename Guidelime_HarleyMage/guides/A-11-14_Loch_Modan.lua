@@ -81,6 +81,11 @@ Turn in [QT301], then accept [QA302].
 [A Shaman,Druid,Mage,Priest] [G62.23,89.62 Ironforge] [T] [LE Daggers 1-] [O] At Bixi Wobblebonk, learn missing skills for weapons you plan to use: Daggers.
 [A Druid,NightElf] Take the Deeprun Tram to Stormwind for Druid training.
 [A Druid,NightElf] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Enrage, Regrowth I and Revive I.
+[A Warrior] Talents 11-12: Improved Rend 3 (/ak talents).
+[A Rogue] Talents 11-12: Remorseless Attacks 2, Efficient Strikes 1 (/ak talents).
+[A Druid] Talents 11-12: Ferocity 3 (/ak talents).
+[A Paladin] Talents 11-12: Benediction 3 (/ak talents).
+[O] Professions: Tailoring + Enchanting: train Apprentice in both if you have not. Tailoring: Bolts of Linen Cloth and Brown Linen gear to 50+. Enchanting: disenchant soulbound greens with the /ak de prompt, then Runed Copper Rod.
 [A Druid,NightElf] Take the tram back to Ironforge before continuing.
 [G55.09,58.26 Ironforge] [LE First Aid 150-] [O] Train Journeyman First Aid with Nissa Firestone (50 skill); skip if not ready.
 [G60.08,36.43 Ironforge] [LE Cooking 150-] [O] Train Journeyman Cooking with Daryl Riknussun (50 skill); skip if not ready.
@@ -141,6 +146,10 @@ Turn in [QT98423].
 [A Paladin] [G23.13,6.14 Ironforge] [T] At Brandur Ironhammer, learn Blessing of Wisdom I and Holy Light III.
 [A Mage] [G27.25,8.30 Ironforge] [T] At Bink, learn Arcane Intellect II, Frostbolt III, Fire Blast II and Arcane Explosion I.
 [A Hunter] [G70.89,83.61 Ironforge] [T] At Olmin Burningbeard, learn Eagle Eye, Eyes of the Beast and Scare Beast I.
+[A Warrior] Talents 13-14: Deflection 2 (/ak talents).
+[A Rogue] Talents 13-14: Efficient Strikes 2, Coup de Grace 1 (/ak talents).
+[A Druid] Talents 13-14: Ferocity 5 (/ak talents).
+[A Paladin] Talents 13-14: Benediction 5 (/ak talents).
 [V] Repair, restock and train available abilities; keep Thelsamar bound.
 Finish in Ironforge at 14. Carry Stormpike's Request to Stormwind.
 ]], "Harley Mage")

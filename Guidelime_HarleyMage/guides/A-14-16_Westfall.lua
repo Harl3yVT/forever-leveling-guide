@@ -132,6 +132,11 @@ Turn in [QT92751], then accept [QA92752]; keep it for Alba at the Westfall retur
 [A Priest] [G49.53,44.60 Stormwind City] [T] At High Priestess Laurena, learn Heal I and Mind Blast II.
 [A Paladin] [G49.61,49.84 Stormwind City] [T] At Arthur the Faithful, learn Retribution Aura I.
 [A Mage] [G49.56,85.80 Stormwind City] [T] At Jennea Cannon, learn Arcane Missiles II and Flamestrike I.
+[A Warrior] Talents 15-16: Improved Overpower 2 (/ak talents).
+[A Rogue] Talents 15-16: Coup de Grace 3 (/ak talents).
+[A Druid] Talents 15-16: Feral Swiftness 2 (/ak talents).
+[A Paladin] Talents 15-16: Sanctified Judgement 2 (/ak talents).
+[O] Professions: Tailoring ~75: Heavy Linen Gloves and Reinforced Linen Capes, keep spare Linen for bolts. Enchanting ~75: train Journeyman at 50 skill, then Minor Health / Minor Stamina on your own gear.
 [A Mage] [G48.95,86.54 Stormwind City] Bring Rumi of Gnomeregan: The Collected Works to Garion Wendell in the Mage Tower library, then accept [QA79093]. [O]
 [A Mage] [G48.95,86.54 Stormwind City] Turn in [QT79093] with the book and learn Study. [O]
 [A Mage] Accept [QA97286] if Garion offers it. [O]

@@ -90,6 +90,10 @@ Turn in [QT697].
 [A Mage] [G49.56,85.80 Stormwind City] [T] At Jennea Cannon, learn Frostbolt VII, Fire Blast V and Conjure Mana Jade.
 [A Hunter] [G67.35,36.25 Stormwind City] [T] At Einris Brightspear, learn Aspect of the Hawk IV and Wing Clip II.
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Nature's Grasp IV, Entangling Roots IV, Healing Touch VII, Hibernate II, Shred III, Soothe Animal II and Wrath VI.
+[A Warrior] Talents 37-38: Weaponmaster 4 (/ak talents).
+[A Rogue] Talents 37-38: Hack and Slash 4 (/ak talents).
+[A Druid] Talents 37-38: Rend and Tear 4 (/ak talents).
+[A Paladin] Talents 37-38: Two-Handed Weapon Specialization 2 (/ak talents).
 [V] Repair, restock and train available abilities and chosen professions. Keep three Soothing Spices for Jarl.
 Accept [QA1260].
 Finish in Stormwind with Southshore bound; keep the Scarlet Key and In the Name of the Light, the Booty Bay gem and carried jungle/Flats quests.
