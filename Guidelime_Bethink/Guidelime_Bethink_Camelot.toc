@@ -1,0 +1,72 @@
+## Interface: 16001
+## Title: Guidelime: Bethink
+## IconTexture: Interface\AddOns\Guidelime_Bethink\Guidelime_Bethink.tga
+## Notes: Zone leveling guides. Select Bethink in Guidelime.
+## Author: Bethink
+## Version: 1.0.3
+## X-License: GPLv3
+## RequiredDeps: Guidelime, QuestieDB
+
+guides\A-01-11_Dun_Morogh.lua
+guides\A-01-11_Elwynn_Forest.lua
+guides\A-01-11_Teldrassil.lua
+guides\A-01-14_Zephras_Isle.lua
+guides\A-11-14_Loch_Modan.lua
+guides\A-14-19_Westfall.lua
+guides\A-19-22_Redridge_Mountains.lua
+guides\A-22-23_Duskwood.lua
+guides\A-23-25_Wetlands.lua
+guides\A-25-28_Duskwood.lua
+guides\A-28-31_Wetlands.lua
+guides\A-31-33_Hillsbrad_Foothills.lua
+guides\A-33-34_Stranglethorn_Vale.lua
+guides\A-34-35_Thousand_Needles.lua
+guides\A-35-37_Desolace.lua
+guides\A-37-38_Arathi_Highlands.lua
+guides\A-38-39_Dustwallow_Marsh.lua
+guides\A-39-42_Stranglethorn_Vale.lua
+guides\A-42-44_Badlands.lua
+guides\A-44-45_Tanaris.lua
+guides\A-45-47_Feralas.lua
+guides\A-47-48_Tanaris.lua
+guides\A-48-49_Searing_Gorge.lua
+guides\A-49-50_Desolace.lua
+guides\A-50-52_Un'Goro_Crater.lua
+guides\A-52-54_Felwood.lua
+guides\A-54-55_Burning_Steppes.lua
+guides\A-55-56_Western_Plaguelands.lua
+guides\A-56-57_Winterspring.lua
+guides\A-57-58_Feralas.lua
+guides\A-58-59_Eastern_Plaguelands.lua
+guides\A-59-60_Un'Goro_Crater.lua
+guides\H-01-11_Durotar.lua
+guides\H-01-11_Mulgore.lua
+guides\H-01-11_Tirisfal_Glades.lua
+guides\H-01-14_Zephras_Isle.lua
+guides\H-11-19_The_Barrens.lua
+guides\H-14-19_The_Barrens.lua
+guides\H-19-21_Silverpine_Forest.lua
+guides\H-21-24_Hillsbrad_Foothills.lua
+guides\H-24-27_Ashenvale.lua
+guides\H-27-29_Thousand_Needles.lua
+guides\H-29-31_Hillsbrad_Foothills.lua
+guides\H-31-33_Stranglethorn_Vale.lua
+guides\H-33-35_Thousand_Needles.lua
+guides\H-35-37_Desolace.lua
+guides\H-37-38_Arathi_Highlands.lua
+guides\H-38-39_Dustwallow_Marsh.lua
+guides\H-39-42_Stranglethorn_Vale.lua
+guides\H-42-44_Badlands.lua
+guides\H-44-45_Tanaris.lua
+guides\H-45-47_Feralas.lua
+guides\H-47-48_Tanaris.lua
+guides\H-48-49_Searing_Gorge.lua
+guides\H-49-50_Desolace.lua
+guides\H-50-52_Un'Goro_Crater.lua
+guides\H-52-54_Felwood.lua
+guides\H-54-55_Burning_Steppes.lua
+guides\H-55-56_Western_Plaguelands.lua
+guides\H-56-57_Winterspring.lua
+guides\H-57-58_Feralas.lua
+guides\H-58-59_Eastern_Plaguelands.lua
+guides\H-59-60_Un'Goro_Crater.lua

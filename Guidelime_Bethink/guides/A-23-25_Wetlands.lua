@@ -1,0 +1,115 @@
+-- Original Wetlands circuit, with one Shadowfang visit and preparation for later dungeons.
+Guidelime.registerGuide([[
+[N 23-25 Wetlands (Alliance)]
+[D Menethil, Greenwarden and the outer quarry hunts, Shadowfang Keep at 24, then the northern coast and Blackfathom Deeps at 25. Ends in Ironforge.]
+[GA Alliance,Softcore]
+[NX 25-28 Duskwood (Alliance)]
+[XP23] Start in Stormwind at 23. Keep the carried Duskwood quests and The Corruption Abroad.
+Take the Deeprun Tram from the Dwarven District to Ironforge, then go to the flight master. [G69.55,31.26 Stormwind City]
+[A Human,Dwarf,Gnome,NightElf] [G55.50,47.75 Ironforge] [F Thelsamar]
+[A Skyborne] [G86.28,48.81 Dun Morogh] Follow Dun Morogh's road east through South Gate Pass into Loch Modan, then take the road north to Thelsamar.
+[A Skyborne] [G33.94,50.95 Loch Modan] [P Thelsamar] Collect the flight point before crossing town.
+Find patrolling Mountaineer Kadrell in Thelsamar, then accept [QA468].
+Follow the road north through Loch Modan to the Dun Algaz approach. Turn in [QT468], then accept [QA455].
+Traverse Dun Algaz; kill eight level 19-20 Dragonmaw Scouts and six level 20-21 Grunts near its Wetlands exit for [QC455]. Pull from the edges; avoid stronger eastern camps.
+Follow the road north to Einar Stonegrip and accept [QA469], then continue west to Menethil.
+Follow the main road west to Menethil Harbor. Keep to open ground and avoid the higher-level raptors and stealthed marsh enemies.
+Accept [QA470].
+Accept [QA98282] for the Thelgen Rock spider hunt.
+Accept [QA463].
+[G10.70,60.95 Wetlands] [S Menethil Harbor] Bind with Helbrek. This saves the return from Shadowfang Keep in Silverpine.
+[V] Repair, buy drinks and make bag space. Keep the Duskwood quest items for the return circuit.
+[G9.49,59.69 Wetlands] [P Menethil Harbor] Collect Shellei Brondir's flight point.
+Accept [QA279].
+Turn in [QT455], then accept [QA98197].
+Turn in [QT469].
+Accept [QA484].
+Accept [QA305].
+Collect six Khaz Modan Timber and thirty Khaz Modan Iron from debris around Menethil Harbor for [QC98197].
+Turn in [QT98197].
+Collect four Young Crocolisk Skins from level 21-22 Young Wetlands Crocolisks outside town for [QC484]. Avoid ordinary Wetlands Crocolisks, up to 24.
+Kill twelve level 20-21 Bluegill Murlocs and level-22 Gobbler and take his head for [QC279]. Use southern outer shore camps; avoid northern oracles, warriors and packed hovels.
+Reach Whelgar's camp by its outside path and ramp, then turn in [QT305]; stay above the raptor quarry. Accept [QA306].
+Accept [QA294], the first raptor hunt; finish both types after reaching 24.
+Collect an Unruptured Stalker Gland from level 21-22 Cave/Leech Stalkers at Thelgen Rock for [QC98282]. Pull out from the entrance; avoid the deeper cave.
+Leave Thelgen Rock by the cleared entrance and follow the road north to the Greenwarden. Turn in [QT463], then accept [QA276].
+Kill fifteen level 20-21 Mosshide Gnolls and ten level 21-22 Mongrels in the southeastern outer camps for [QC276]. Stop runners; avoid stronger types.
+Turn in [QT276], then accept [QA277].
+[G61.13,58.23 Wetlands] Collect nine Crude Flints from level 22-23 Fenrunners/Mistweavers for [QC277]. Pull casters into cleared ground; avoid Trappers, Brutes and Alphas.
+Turn in [QT277], then accept [QA275]; the Fen Creeper hunt follows the level-24 checkpoint below.
+[H Menethil Harbor] [O] Hearth to Menethil if ready; otherwise leave by the cleared approach and road west.
+Turn in [QT98282].
+Turn in [QT306].
+Turn in [QT484].
+Accept [QA471]; keep the giant crocolisk hunt for the northern coast after 25.
+Turn in [QT279], then accept [QA281]; keep the statuette investigation for the later higher-level coastal circuit.
+[XP24] Reach level 24 before Shadowfang Keep.
+[V] Repair, restock and clear bags.
+Take the Southshore/Auberdine ship; disembark at Southshore. Keep Menethil bound.
+[G49.34,52.27 Hillsbrad Foothills] [P Southshore] Take Darla Harris's flight point while passing through Southshore.
+[G45.00,68.00 Silverpine Forest] Follow the road west into southern Silverpine, then uphill above Pyrewood to Shadowfang. Avoid Tarren Mill, The Sepulcher and guards.
+Join a five-player Shadowfang Keep party at the entrance, with a tank and healer ready for the level-26 final boss.
+Enter together and complete one Shadowfang Keep clear through Arugal. Free the courtyard prisoner and use his dialogue to open the way.
+Clear nearby enemies before Arugal; use line of sight during teleports.
+[L49.34,52.27 Hillsbrad Foothills] [H Menethil Harbor] [F Menethil Harbor] [O] Return to Menethil with the hearth if ready. Otherwise return to Southshore for its boat or a flight via Ironforge.
+Collect Sida's Bag from the oozes around Ironbeard's Tomb for [QC470].
+Turn in [QT470].
+[G9.49,59.69 Wetlands] [F Ironforge] Fly to Ironforge for level-24 training and the Blackfathom quest; keep Menethil bound.
+[G50.08,7.45 Ironforge] [T] [A Warlock] Train Corruption III, Drain Soul II, Drain Mana and Sense Demons; train Shadowburn when talented.
+[A Warrior] [G70.34,90.65 Ironforge] [T] At Kelv Sternhammer, learn Demoralizing Shout II, Execute I, Heroic Strike IV and Revenge II.
+[A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Ancestral Spirit II, Earth Shock IV, Frost Resistance Totem I, Healing Wave V, Lightning Shield III, Rockbiter Weapon IV, Stoneskin Totem III and Strength of Earth Totem II.
+[A Rogue] [G51.96,14.84 Ironforge] [T] At Hulfdan Blackbeard, learn Detect Traps, Eviscerate IV and Shank I.
+[A Rogue] [G51.96,14.84 Ironforge] [T] At Hulfdan Blackbeard, learn Mind-numbing Poison I (100 Poisons). Learn recipes as your Poisons skill allows; skip unavailable recipes.
+[A Priest] [G24.73,8.16 Ironforge] [T] At High Priest Rohan, learn Holy Fire II, Mana Burn I, Power Word: Fortitude III and Power Word: Shield IV.
+[A Paladin] [G23.13,6.14 Ironforge] [T] At Brandur Ironhammer, learn Hammer of Justice II, Blessing of Protection II, Blessing of Wisdom II, Redemption II and Turn Undead I.
+[A Mage] [G31.32,27.79 Ironforge] [V] Buy Runes of Teleportation from Ginny Longberry.
+[A Mage] [G25.50,7.07 Ironforge] [T] At Milstaff Stormeye, learn Teleport: Ironforge.
+[A Mage] [G27.25,8.30 Ironforge] [T] At Bink, learn Counterspell, Fireball V, Arcane Missiles III and Flamestrike II.
+[A Hunter] [G70.89,83.61 Ironforge] [T] At Olmin Burningbeard, learn Beast Lore, Raptor Strike IV and Track Hidden.
+[A Hunter] [G70.86,85.83 Ironforge] [T] At Belia Thundergranite, learn Great Stamina IV, Natural Armor IV. Open Beast Training and teach the usable ranks to your active pet as its level and training points allow.
+[A Druid] Take the Deeprun Tram to Stormwind for Druid training.
+[A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Ferocious Bite I, Rake I, Regrowth III, Remove Curse, Revive II, Swipe II and Thorns III.
+[A Druid] Take the Deeprun Tram back to Ironforge before continuing.
+[G52.70,6.08 Ironforge] [A Warlock] Buy and use Imp Fire Shield II and Voidwalker Sacrifice II / Suffering I from Jubahl.
+Accept [QA971] from Gerrig Bonegrip for the later Blackfathom visit.
+[V] Repair, restock and train available abilities and chosen professions.
+[G55.50,47.75 Ironforge] [F Menethil Harbor]
+Accept [QA98815] for the later Excavation Site dungeon visit.
+Kill ten level 22-23 Mottled Raptors and ten level 24-25 Screechers outside the quarry for [QC294]. Pull into cleared ground; avoid level 25-27 Scytheclaws/Razormaws and rares.
+Turn in [QT294], then accept [QA295]; keep the second raptor tier for the later higher-level Wetlands circuit.
+Follow the road around the quarry. Kill twelve level 24-25 Fen Creepers in the marsh near Greenwarden for [QC275]; approach hidden water spawns slowly and pull onto cleared ground. Avoid stronger crocolisks/gnoll camps.
+Turn in [QT275], then accept [QA95646] for the later Excavation Site dungeon clear.
+[H Menethil Harbor] [O] Hearth to Menethil if ready; otherwise take the road west.
+[XP25] Reach level 25 before the northern crocolisk hunt.
+Collect six Giant Crocolisk Skins from level 25-26 Giant Wetlands Crocolisks along the northern coast for [QC471]. Avoid the cursed ships.
+[H Menethil Harbor] [O] Hearth to Menethil if ready; otherwise return by the coast road.
+Turn in [QT471].
+Take the Auberdine ship from Menethil Harbor; confirm its destination with the dockmaster.
+[G36.34,45.58 Darkshore] [P Auberdine]
+Turn in [QT3765], then accept [QA1275].
+[G37.04,44.13 Darkshore] [S Auberdine] Bind in Auberdine for the Blackfathom return and Darnassus boat.
+Accept an eligible [QA1198] share if offered; keep it for Blackfathom. [O]
+Accept an eligible [QA1199] share for the post-clear Darnassus delivery. [O]
+[V] Restock before leaving Auberdine for Blackfathom.
+[G14.50,14.20 Ashenvale] Travel south through Darkshore into Ashenvale, then west to northern Zoram Strand. Avoid the Horde outpost; reach the ruins entrance.
+Join a five-player Blackfathom party at the ruins entrance with a tank and healer ready for Aku'mai at 28. Follow the flooded approach together.
+Clear Blackfathom through Aku'mai with the party.
+[A Warlock] Use Unending Breath for the underwater sections.
+After the turtle room, find Argent Guard Thaelrid on the side island and turn in [QT1198] before proceeding toward Kelris.
+Accept [QA1200] directly from Thaelrid.
+Collect your Lorgalis Manuscript from the underwater Pitted Iron Chest in the alcove beyond the turtle room for [QC971].
+Collect eight Corrupted Brain Stems from the naga and satyrs during the clear for [QC1275].
+Collect ten Twilight Pendants from the cultists when Twilight Falls is active for [QC1199]. [O]
+Defeat Twilight Lord Kelris and personally loot his head for [QC1200].
+Defeat Old Serra'kis during the underwater sweep. After Kelris, activate one brazier at a time; defeat its wave and recover before the next. Defeat Aku'mai beyond the door, avoiding poison clouds.
+[H Auberdine] [O] Hearth to Auberdine if ready; otherwise leave by the cleared route and road back.
+Turn in [QT1275].
+[P Rut'theran Village] Take the Rut'theran Village boat, collect the flight point and use the pink Darnassus portal for Kelris/Twilight Falls deliveries.
+[G55.24,23.99 Darnassus] Turn in [QT1199].
+Turn in [QT1200].
+[A Warlock] Choose the Gravestone Scepter if it improves your wand.
+Portal back to Rut'theran; boat to Auberdine, then Menethil. Stay aboard through Southshore if it is an intermediate stop.
+Fly to Ironforge for the manuscript delivery. [G9.49,59.69 Wetlands] [F Ironforge]
+Turn in [QT971].
+Finish in Ironforge at 25+. Keep the Duskwood quests, statuette investigation, second raptor hunt and both Excavation quests.
+]], "Bethink")
