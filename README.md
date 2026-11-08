@@ -4,7 +4,7 @@ A step-by-step leveling route for **WoW Forever** that runs inside the game with
 [Guidelime](https://www.curseforge.com/wow/addons/guidelime) addon. It works for **every Alliance race and class**:
 Guidelime only shows you the steps for your own class (class training, demon books, wands and so on).
 
-- **1-42: Harley's route.** It starts in Elwynn Forest, Dun Morogh, Teldrassil or Zephras Isle, depending on your race. Then it goes Loch Modan, Westfall, Redridge, Duskwood, Wetlands, Hillsbrad, Stranglethorn, Thousand Needles, Desolace, Arathi and Dustwallow.
+- **1-42: Harley's route.** It starts in Elwynn Forest, Dun Morogh, Teldrassil or Zephras Isle, depending on your race. Then it goes Loch Modan, Westfall, Darkshore, Ashenvale, Redridge, Duskwood, Wetlands, Hillsbrad, Stranglethorn, Thousand Needles, Desolace, Arathi and Dustwallow.
 - **42-60: Bethink's guides.** The route hands off to these automatically at 42.
 
 ## Install (5 minutes)
@@ -46,7 +46,7 @@ Open the **CurseForge app**, pick **World of Warcraft**, and switch the game ver
 | Dwarf, Gnome | **1-11 Dun Morogh (Harley)** |
 | Night Elf | **1-11 Teldrassil (Harley)** |
 | Skyborne | **1-14 Zephras Isle (Harley)** |
-| Already level 11-14 | **11-14 Loch Modan (Harley)** (Skyborne go straight to 14-19 Westfall) |
+| Already level 11-14 | **11-14 Loch Modan (Harley)** (Skyborne go straight to 14-16 Westfall, then Darkshore 16-20 and Ashenvale 20-21) |
 | Higher level | The chapter that matches your level |
 
 Each chapter loads the next one when you finish it. To skip a step, like a quest you've

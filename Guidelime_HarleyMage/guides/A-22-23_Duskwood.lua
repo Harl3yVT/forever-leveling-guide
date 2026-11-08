@@ -19,7 +19,6 @@ Collect ten Ghoul Fangs, ten Skeleton Fingers and five Vials of Spider Venom dur
 [V] Repair and buy drinks; keep six Gooey Spider Legs for Grual before his quest becomes available.
 Accept [QA56].
 Accept [QA96139] from Sirra Von'Indi.
-Turn in [QT145], then accept [QA146]; keep Ello's reply for the later planned Lakeshire visit.
 Follow the road west to Raven Hill. Avoid Stitches, Mor'Ladim, the northern graveyard and southern Defias farms.
 Accept [QA245].
 Turn in [QT163], then accept [QA5].
@@ -46,12 +45,10 @@ Turn in [QT157], then accept [QA158].
 [H Darkshire] [O] Hearth to Darkshire if ready; otherwise use the outside paths and main road, avoiding Stitches.
 Turn in [QT158], then accept [QA156]; keep it for the later Fiend and Horror hunt.
 Accept [QA377] for the planned Stockades clear.
-[G77.49,44.29 Duskwood] [F Lakeshire]
-Turn in [QT146].
 [XP23] Reach level 23 before the Wetlands journey.
-[G25.50,59.41 Redridge Mountains] [F Stormwind] Fly to Stormwind; keep Darkshire bound until Menethil.
+[A Mage] [SP3561] Cast Teleport: Stormwind; keep Darkshire bound until Menethil.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] [G77.49,44.29 Duskwood] [F Stormwind] Fly to Stormwind; keep Darkshire bound until Menethil.
 [V] Repair and restock.
 [V] Repair, restock and train available abilities and chosen professions.
-Accept [QA3765] for the upcoming Blackfathom visit.
-Finish in Stormwind at 23. Keep Night Watch, Gather Rot Blossoms, Totem of Infliction, Look to the Stars, Crime and Punishment and The Corruption Abroad.
+Finish in Stormwind at 23. Keep Night Watch, Gather Rot Blossoms, Totem of Infliction, Look to the Stars, and Crime and Punishment.
 ]], "Harley Mage")

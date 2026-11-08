@@ -2,7 +2,7 @@
 ## Title: Guidelime: Harley Mage (alts)
 ## Notes: Harley alt route for WoW Forever, every Alliance race and class, 1-42. Select "Harley Mage" in /lime.
 ## Author: Harl3yVT
-## Version: 0.3.0
+## Version: 0.4.0
 ## X-License: GPLv3 (route text adapted from Guidelime_Bethink by Bethink)
 ## RequiredDeps: Guidelime, QuestieDB
 
@@ -11,8 +11,10 @@ guides\A-01-11_Dun_Morogh.lua
 guides\A-01-11_Teldrassil.lua
 guides\A-01-14_Zephras_Isle.lua
 guides\A-11-14_Loch_Modan.lua
-guides\A-14-19_Westfall.lua
-guides\A-19-22_Redridge_Mountains.lua
+guides\A-14-16_Westfall.lua
+guides\A-16-20_Darkshore.lua
+guides\A-20-21_Ashenvale.lua
+guides\A-21-22_Redridge_Mountains.lua
 guides\A-22-23_Duskwood.lua
 guides\A-23-25_Wetlands.lua
 guides\A-25-28_Duskwood.lua

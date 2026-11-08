@@ -22,7 +22,6 @@ Guidelime.registerGuide([[
 Take the Deeprun Tram to Ironforge. [G69.55,31.26 Stormwind City]
 [A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Fire Resistance Totem I, Flame Shock III, Flametongue Totem I, Frostbrand Weapon II, Lesser Healing Wave II, Stoneclaw Totem III and Water Walking. Keep a few Fish Oil for Water Walking.
 [G55.50,47.74 Ironforge] [F Menethil Harbor]
-Turn in [QT98461] to Tarrel Rockweaver north of the harbor if you still carry it. [O]
 Accept [QA464], [QA98221] and [QA98230] from Captain Stoutfist.
 Accept [QA98240] from James Halloran on the docks.
 Accept [QA288] from First Mate Fitzsimmons in the inn, buy a Flagon of Mead from the innkeeper for [QC288], then turn in [QT288]. Skip the cursed ship follow-up; it needs a group.

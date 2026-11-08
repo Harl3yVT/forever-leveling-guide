@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 [N 11-14 Loch Modan (Harley)]
 [D Thelsamar and Silver Stream Mine, Ironband's report and shipment, then one Hall of Thanes clear. Ends in Ironforge with level-14 training.]
 [GA Alliance,Softcore]
-[NX 14-19 Westfall (Harley)]
+[NX 14-16 Westfall (Harley)]
 [XP11] Start at 11 in Ironforge. Keep Old Ironforge Incursion only if Underground Map is completed; do not farm the map.
 [G55.50,47.74 Ironforge] [P Ironforge] Collect the flight point if not already known.
 [G55.09,58.26 Ironforge] [SK First Aid 1-] Learn Apprentice First Aid from Nissa Firestone if not already trained.

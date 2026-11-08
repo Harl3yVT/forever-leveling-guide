@@ -1,12 +1,12 @@
 -- Harley alt route (Mage first, any class). Merged from Harley Priest + Guidelime_Bethink "A-23-25_Wetlands" (GPLv3).
 Guidelime.registerGuide([[
 [N 23-25 Wetlands (Harley)]
-[D Menethil, Greenwarden and the outer quarry hunts, Shadowfang Keep at 24, then the northern coast and Blackfathom Deeps at 25. Ends in Ironforge.]
+[D Menethil, Greenwarden and the outer quarry hunts, Shadowfang Keep at 24, then the northern coast. Ends in Ironforge.]
 [GA Alliance,Softcore]
 [NX 25-28 Duskwood (Harley)]
 [A Mage] [O] Talents: At 24, Improved Blizzard 1/3. At 25, Ice Shards 4/5. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt, Frostbolt, then Ice Lance or Fire Blast to finish. Frost Nova when they reach you and Ice Lance the frozen target. Blizzard is for grouped pulls with Frost Nova ready. Mana Shield only in emergencies; Evocation when you are dry.
-[XP23] Start in Stormwind at 23. Keep the carried Duskwood quests and The Corruption Abroad.
+[XP23] Start in Stormwind at 23. Keep the carried Duskwood quests and Unrequited Love.
 [A Priest] [O] Talent points: Twin Disciplines 5/5 at 23, Martyrdom 1/2 at 24 and 2/2 at 25.
 Take the Deeprun Tram from the Dwarven District to Ironforge, then go to the flight master. [G69.55,31.26 Stormwind City]
 [G55.50,47.75 Ironforge] [F Thelsamar]
@@ -28,6 +28,7 @@ Accept [QA279].
 Turn in [QT455], then accept [QA98197].
 Accept [QA473] from Valstag Ironjaw, then turn in [QT473] to Captain Stoutfist in the keep.
 Accept [QA98072] from James Halloran on the docks.
+Turn in [QT98461] to Tarrel Rockweaver north of the harbor.
 [L63.43,48.80 Wetlands] [O] Collect eight Pristine Crimson Scales from whelps as you meet them in the Wetlands for [QC98072].
 Turn in [QT469].
 Accept [QA484].
@@ -64,7 +65,7 @@ Clear nearby enemies before Arugal; use line of sight during teleports.
 Collect Sida's Bag from the oozes around Ironbeard's Tomb for [QC470].
 Turn in [QT470].
 Turn in [QT98459] to Bart Tidewater.
-[G9.49,59.69 Wetlands] [F Ironforge] Fly to Ironforge for level-24 training and the Blackfathom quest; keep Menethil bound.
+[G9.49,59.69 Wetlands] [F Ironforge] Fly to Ironforge for level-24 training; keep Menethil bound.
 [A Priest] [G24.73,8.16 Ironforge] [T] At High Priest Rohan, learn Power Word: Shield IV and Power Word: Fortitude III (50s each). Holy Fire II and Mana Burn can wait if gold is short.
 [G50.08,7.45 Ironforge] [T] [A Warlock] Train Corruption III, Drain Soul II, Drain Mana and Sense Demons; train Shadowburn when talented.
 [A Warrior] [G70.34,90.65 Ironforge] [T] At Kelv Sternhammer, learn Demoralizing Shout II, Execute I, Heroic Strike IV and Revenge II.
@@ -81,7 +82,6 @@ Turn in [QT98459] to Bart Tidewater.
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Ferocious Bite I, Rake I, Regrowth III, Remove Curse, Revive II, Swipe II and Thorns III.
 [A Druid] Take the Deeprun Tram back to Ironforge before continuing.
 [G52.70,6.08 Ironforge] [A Warlock] Buy and use Imp Fire Shield II and Voidwalker Sacrifice II / Suffering I from Jubahl.
-Accept [QA971] from Gerrig Bonegrip for the later Blackfathom visit.
 [V] Repair and restock.
 [V] Repair, restock and train available abilities and chosen professions.
 [G55.50,47.75 Ironforge] [F Menethil Harbor]
@@ -95,36 +95,8 @@ Turn in [QT275], then accept [QA95646] for the later Excavation Site dungeon cle
 Collect six Giant Crocolisk Skins from level 25-26 Giant Wetlands Crocolisks along the northern coast for [QC471]. Avoid the cursed ships.
 [H Menethil Harbor] [O] Hearth to Menethil if ready; otherwise return by the coast road.
 Turn in [QT471].
-Take the Auberdine ship from Menethil Harbor; confirm its destination with the dockmaster.
-[G36.34,45.58 Darkshore] [P Auberdine]
-Turn in [QT3765], then accept [QA1275].
-Accept [QA98461] from Archaeologist Hollee.
-[G37.04,44.13 Darkshore] [S Auberdine] Bind in Auberdine for the Blackfathom return and Darnassus boat.
-Accept an eligible [QA1198] share if offered; keep it for Blackfathom. [O]
-Accept an eligible [QA1199] share for the post-clear Darnassus delivery. [O]
-[V] Restock before leaving Auberdine for Blackfathom.
-[G14.50,14.20 Ashenvale] Travel south through Darkshore into Ashenvale, then west to northern Zoram Strand. Avoid the Horde outpost; reach the ruins entrance.
-Join a five-player Blackfathom party at the ruins entrance with a tank and healer ready for Aku'mai at 28. Follow the flooded approach together.
-Clear Blackfathom through Aku'mai with the party.
-[A Warlock] Use Unending Breath for the underwater sections.
-After the turtle room, find Argent Guard Thaelrid on the side island and turn in [QT1198] before proceeding toward Kelris.
-Accept [QA1200] directly from Thaelrid.
-Collect your Lorgalis Manuscript from the underwater Pitted Iron Chest in the alcove beyond the turtle room for [QC971].
-Collect eight Corrupted Brain Stems from the naga and satyrs during the clear for [QC1275].
-Collect ten Twilight Pendants from the cultists when Twilight Falls is active for [QC1199]. [O]
-Defeat Twilight Lord Kelris and personally loot his head for [QC1200].
-Defeat Old Serra'kis during the underwater sweep. After Kelris, activate one brazier at a time; defeat its wave and recover before the next. Defeat Aku'mai beyond the door, avoiding poison clouds.
-[H Auberdine] [O] Hearth to Auberdine if ready; otherwise leave by the cleared route and road back.
-Turn in [QT1275].
-[P Rut'theran Village] Take the Rut'theran Village boat, collect the flight point and use the pink Darnassus portal for Kelris/Twilight Falls deliveries.
-[G55.24,23.99 Darnassus] Turn in [QT1199].
-Turn in [QT1200].
-[A Priest,Mage,Warlock] Choose the Gravestone Scepter as your reward; it is your next wand.
-[A Mage] [SP3562] Cast Teleport: Ironforge for the manuscript delivery. Keep Hollee's find for the next Menethil visit.
-[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Portal back to Rut'theran; boat to Auberdine, then Menethil. Stay aboard through Southshore if it is an intermediate stop.
-[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Turn in [QT98461] to Tarrel Rockweaver north of the harbor.
-[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Fly to Ironforge for the manuscript delivery. [G9.49,59.69 Wetlands] [F Ironforge]
-Turn in [QT971].
+[A Mage] [SP3562] Cast Teleport: Ironforge.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] [G9.49,59.69 Wetlands] [F Ironforge] Fly to Ironforge.
 [A Priest,Mage,Warlock] [O] At 25, craft the level-25 Pristine Tailoring pieces. If your Enchanting skill allows, make Soulstaff (level 25, bind on pickup, up to +34 spell damage and healing). It probably beats your current weapon.
 Finish in Ironforge at 25+. Keep the Duskwood quests, statuette investigation, second raptor hunt and both Excavation quests.
 ]], "Harley Mage")

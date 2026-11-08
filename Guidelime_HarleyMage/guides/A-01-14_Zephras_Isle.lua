@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 [N 1-14 Zephras Isle (Harley)]
 [D Thendal Grove, Shen'dar Highlands and Valanaar; the High Order story and mainland arrival. Ends in Ironforge at 14.]
 [GA Alliance,Skyborne,Softcore]
-[NX 14-19 Westfall (Harley)]
+[NX 14-16 Westfall (Harley)]
 [OC] Min-max: when you first pick a Legacy perk, take Thrill of Adventure first (health and mana back over 10 seconds after each kill, solo only), then Talented.
 [OC] Min-max: cooked food with Well Fed adds 5% XP from kills (not quests). Eat it before long kill grinds; check the tooltip for the XP line.
 [A Mage] [OC] Rotation: Frostbolt to open and again as the enemy closes, Fire Blast to finish. If one reaches you, Frost Nova, step back and Frostbolt. Wand when mana runs low; drink conjured water between pulls.
