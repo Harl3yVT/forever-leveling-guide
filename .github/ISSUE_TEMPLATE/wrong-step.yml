@@ -1,0 +1,51 @@
+name: Wrong or missing guide step
+description: A step is wrong, missing, or sends you to the wrong place.
+title: "[step] <chapter>: <short description>"
+labels: ["guide-step"]
+body:
+  - type: input
+    id: class
+    attributes:
+      label: Class and race
+      placeholder: Human Warlock
+    validations:
+      required: true
+  - type: input
+    id: level
+    attributes:
+      label: Your level
+      placeholder: "24"
+    validations:
+      required: true
+  - type: input
+    id: chapter
+    attributes:
+      label: Chapter (as shown in /lime)
+      placeholder: 23-25 Wetlands (Harley)
+    validations:
+      required: true
+  - type: textarea
+    id: step
+    attributes:
+      label: Step text
+      description: Copy the step as it appears in Guidelime.
+    validations:
+      required: true
+  - type: input
+    id: coords
+    attributes:
+      label: Your coordinates / where the arrow pointed
+      placeholder: "Wetlands 49.6,46.4"
+  - type: textarea
+    id: what
+    attributes:
+      label: What went wrong
+      description: What you expected, what happened, and the fix if you know it (quest name or ID, NPC, spell).
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Guide version
+      description: The Version line in Guidelime_HarleyMage.toc, or the release you downloaded.
+      placeholder: "0.5.0"

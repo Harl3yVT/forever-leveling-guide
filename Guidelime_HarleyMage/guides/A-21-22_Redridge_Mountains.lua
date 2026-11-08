@@ -7,7 +7,14 @@ Guidelime.registerGuide([[
 [A Mage] [O] Talents: At 21-22, Frost Channeling 1/3 and 2/3. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt, Frostbolt, then Ice Lance or Fire Blast to finish. Frost Nova when they reach you and Ice Lance the frozen target. Blizzard is for grouped pulls with Frost Nova ready. Mana Shield only in emergencies; Evocation when you are dry.
 [A Priest] [O] Talent points: Twin Disciplines 4/5 at 22.
+[A Warlock] [O] Talents: At 21-22, Unholy Power 2/5 and 3/5. The WarlockKit talent button (/wk talents) shows the next pick.
 [XP21] Start in Stormwind at 21 with The Defias Brotherhood and Explosive Consultation.
+[A Warlock] [O] With the Heartswood, turn in [QT1738] to Gakin, then accept [QA1739].
+[A Warlock] [O] Use the Heartswood Core in the cellar's summoning circle and subdue the succubus for [QC1739]. Voidwalker tanks; DoT her and Drain Life.
+[A Warlock] [O] Turn in [QT1739] and learn Summon Succubus.
+[A Warlock] [O] With the Wooden Figurine, turn in [QT65602] to Gakin, then accept [QA65603].
+[A Warlock] [O] Use the Wooden Figurine in the cellar's summoning circle and subdue the incubus for [QC65603].
+[A Warlock] [O] Turn in [QT65603] and learn Summon Incubus.
 [OC] Clear Deadmines once at 21+ with a suitable tank/healer party.
 [OC] Redridge's group quests (Render's Valley, Bellygrub, Render's Rock, Stonewatch and Fangore) wait for the 25-28 Duskwood chapter, when they are easier.
 [A Rogue] Accept [QA2281] from Renzik the Shiv beside SI:7.
@@ -124,6 +131,7 @@ Buy a Bronze Tube for Viktori's telescope in Duskwood. [CI4371,1]
 [A Priest] [G49.53,44.60 Stormwind City] [T] At High Priestess Laurena, learn Mind Blast III and Heal II (33s each). Resurrection II and Smite IV can wait if gold is short.
 [V] Repair and restock.
 [G39.24,84.96 Stormwind City] [T] [A Warlock] Train Drain Life II, Create Healthstone II, Curse of Weakness III and Eye of Kilrogg.
+[A Warlock] [O] Short on gold? Curse of Weakness III and Eye of Kilrogg can wait until the next visit.
 [A Warrior] [G80.55,59.87 Stormwind City] [T] At Wu Shen, learn Battle Shout III, Intimidating Shout and Sunder Armor II.
 [A Rogue] [G77.43,65.31 Stormwind City] [T] At Osborne the Night Man, learn Vanish I, Distract, Garrote II and Sinister Strike IV. Keep Flash Powder for Vanish.
 [A Paladin] [G49.61,49.84 Stormwind City] [T] At Arthur the Faithful, learn Concentration Aura, Holy Light IV, Seal of Justice, Blessing of Might III and Seal of the Crusader III.

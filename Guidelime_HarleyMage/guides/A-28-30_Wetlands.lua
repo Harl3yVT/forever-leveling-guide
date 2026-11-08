@@ -6,11 +6,14 @@ Guidelime.registerGuide([[
 [NX 30-31 Hillsbrad Foothills (Harley)]
 [A Mage] [O] Talents: At 29, Shatter 3/3. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation with Shatter: Frostbolt to pull, Frost Nova when it reaches you, then Frostbolt or Ice Lance on the frozen target for big crits. Fire Blast to finish. Polymorph extras; Evocation when dry.
+[A Warlock] [O] Talents: At 29, Improved Drains 3/3. At 30, Amplify Curse. The WarlockKit talent button (/wk talents) shows the next pick.
+[A Warlock] [OC] Rotation: Bane of Agony, Corruption, Siphon Life when you have it, then Drain Life as the filler. Life Tap whenever health is full; wand only to finish. Curse of the Elements on long fights.
 [XP28] Start in Stormwind at 28. Keep Mor'Ladim, the Wetlands/Excavation quests, The Doomed Fleet and any Southshore library delivery.
 [A Priest] [O] Talent points: Meditation 2/3 at 29 and 3/3 at 30.
 [A Priest] [G49.53,44.60 Stormwind City] [T] At High Priestess Laurena, learn Mind Blast IV, Devouring Plague II and Heal III (53s each). Psychic Scream II can wait if gold is short.
 [V] Repair and restock.
 [G39.24,84.96 Stormwind City] [T] [A Warlock] Train Shadow Bolt V, Bane of Agony III and Banish. At Spackle (39.53,84.53), buy and use Imp Firebolt IV.
+[A Warlock] [O] Short on gold? Banish can wait until the next visit.
 [A Warrior] [G80.55,59.87 Stormwind City] [T] At Wu Shen, learn Overpower II, Shield Wall and Thunder Clap III. Keep Shield Wall ready for heavy incoming damage while using a shield.
 [A Rogue] [G77.43,65.31 Stormwind City] [T] At Osborne the Night Man, learn Sap II, Backstab IV, Feint II and Rupture II.
 [A Rogue] [G77.43,65.31 Stormwind City] [T] At Osborne the Night Man, learn Instant Poison II (120 Poisons). Learn recipes as your Poisons skill allows; skip unavailable recipes.
@@ -81,6 +84,8 @@ Turn in [QT322], then accept [QA325]; keep Morbent's Bane for the later Duskwood
 Accept [QA92489].
 Accept [QA92456].
 [G39.24,84.96 Stormwind City] [T] [A Warlock] Train Demon Armor II, Immolate IV, Drain Life III, Curse of the Elements II, Create Soulstone II, Subjugate Demon and Hellfire. At Spackle (39.53,84.53), buy and use Voidwalker Torment III.
+[A Warlock] [O] Short on gold? Subjugate Demon and Hellfire can wait until the next visit.
+[A Warlock] [O] Felhunter (optional; the Voidwalker stays the better leveling pet): accept [QA1798] from Gakin. The chain runs through Ratchet, Ironforge, Hillsbrad, Thousand Needles and the Wetlands.
 [A Warrior] [G80.55,59.87 Stormwind City] [T] At Wu Shen, learn Cleave II, Rend IV and Slam II.
 [A Warrior] Accept [QA1718].
 [A Warrior] [G70.95,72.51 Stormwind City] [F Darkshire] Fly to Darkshire, follow Duskwood's western road south into Stranglethorn, then stay on the main road to Booty Bay. Pass Grom'gol without entering it.

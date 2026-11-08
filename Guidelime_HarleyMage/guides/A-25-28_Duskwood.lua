@@ -6,6 +6,9 @@ Guidelime.registerGuide([[
 [NX 28-30 Wetlands (Harley)]
 [A Mage] [O] Talents: At 26, Ice Shards 5/5. At 27-28, Shatter 1/3 and 2/3. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation with Shatter: Frostbolt to pull, Frost Nova when it reaches you, then Frostbolt or Ice Lance on the frozen target for big crits. Fire Blast to finish. Polymorph extras; Evocation when dry.
+[A Warlock] [O] Talents: At 25-26, Demonic Energies 2/2. At 27-28, Improved Drains 1/3 and 2/3. The WarlockKit talent button (/wk talents) shows the next pick.
+[A Warlock] [OC] Rotation: Bane of Agony and Corruption on the pull, Immolate if it will live, then wand. Drain Life when you take damage, Life Tap when health is full. Voidwalker tanks; Fear a second add.
+[A Warlock] [OC] Group or elite steps: send the Voidwalker in first and let it hold aggro, Fear any add, and Sacrifice it when it is about to die. Without a group, skip the optional [O] group steps.
 [XP25] Start in Ironforge at 25+. Keep Night Watch, Gather Rot Blossoms, the other Duskwood quests, statuette investigation, second raptor hunt and both Excavation quests.
 [A Priest] [O] Talent points: Mental Strength 1/5 at 26, Inner Focus at 27 and Meditation 1/3 at 28.
 Collect ten Ghoul Fangs, ten Skeleton Fingers and five Vials of Spider Venom during the Duskwood hunts for [QC101]. [O]
@@ -63,6 +66,7 @@ Accept [QA387].
 [A Priest] [G49.53,44.60 Stormwind City] [T] At High Priestess Laurena, learn Shadow Word: Pain IV, Renew IV, Flash Heal II and Divine Grace III (52s each).
 [V] Repair and restock.
 [G39.24,84.96 Stormwind City] [T] [A Warlock] Train Life Tap III, Searing Pain II, Curse of Tongues and Detect Invisibility I. At Spackle (39.53,84.53), buy and use Imp Blood Pact III and Voidwalker Consume Shadows II.
+[A Warlock] [O] Short on gold? Curse of Tongues and Detect Invisibility can wait until the next visit.
 [A Warrior] [G80.55,59.87 Stormwind City] [T] At Wu Shen, learn Challenging Shout, Charge II and Mocking Blow II.
 [A Shaman] [G69.11,31.30 Stormwind City] Take the Deeprun Tram from the Dwarven District to Ironforge for Shaman training.
 [A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Far Sight, Flametongue Weapon III, Lightning Bolt V, Magma Totem I and Mana Spring Totem I.

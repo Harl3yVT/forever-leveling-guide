@@ -7,6 +7,14 @@ Guidelime.registerGuide([[
 [A Mage] [O] Talents: At 20, take Ice Lance. At 21, Frost Channeling 1/3. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt, Frostbolt, then Ice Lance or Fire Blast to finish. Frost Nova when they reach you and Ice Lance the frozen target. Blizzard is for grouped pulls with Frost Nova ready. Mana Shield only in emergencies; Evocation when you are dry.
 [A Priest] [O] Talent points: Twin Disciplines 3/5 at 21.
+[A Warlock] [O] Joining the route at 20 (for example after Deadmines)? In /lime pick 20-21 Ashenvale (Harley). If you are in Stormwind, do this chapter's level-20 training and Gakin stops first, then take the boat to Auberdine.
+[A Warlock] [O] Tick the Darkshore turn-ins you never picked up (The Tower of Althalaxx, Therylune's Escape, Unrequited Love) to skip them. Abandon Westfall or Redridge quests you will not finish; completed quests such as Deadmines skip themselves.
+[A Warlock] [O] By 20 you should know Summon Imp and Voidwalker, Demon Skin, Shadow Bolt, Immolate, Corruption, Bane of Agony, Curse of Weakness, Curse of Recklessness, Life Tap, Fear, Drain Soul, Drain Life, Health Funnel, Searing Pain, Unending Breath, Create Healthstone and Create Soulstone. Learn anything missing at the level-20 stop.
+[A Warlock] [O] Grimoires by 20 (Spackle Thornberry, Stormwind 39.53,84.53): Imp Blood Pact II, Firebolt III, Fire Shield I and Phase Shift; Voidwalker Sacrifice I and Consume Shadows I. Buy any you skipped at the same stop.
+[A Warlock] [O] Talents: At 20, Unholy Power 1/5 (Demonology). At 21, Unholy Power 2/5. The WarlockKit talent button (/wk talents) shows the next pick.
+[A Warlock] [OC] Rotation: Bane of Agony and Corruption on the pull, Immolate if it will live, then wand. Drain Life when you take damage, Life Tap when health is full. Voidwalker tanks; Fear a second add.
+[A Warlock] [OC] Shards: end kills with Drain Soul until you hold 5+ Soul Shards. Keep one Healthstone and a Soulstone on yourself at all times; /wk shards 5 warns when you run low.
+[A Warlock] [OC] Group or elite steps: send the Voidwalker in first and let it hold aggro, Fear any add, and Sacrifice it when it is about to die. Without a group, skip the optional [O] group steps.
 [XP20] Start in Auberdine at 20. Keep The Tower of Althalaxx, Therylune's Escape and Unrequited Love.
 [OC] Ashenvale is contested: Horde players use Zoram'gar on the western coast. Stay clear of the outpost, the Thistlefur furbolgs north of the road and the level 24+ Foulweald camps east of Astranaar.
 Follow the road south through Darkshore to Kerlonian Evershade, asleep beside Onu's grove. He can take a long time to respawn; skip his escort if he is missing.
@@ -35,6 +43,8 @@ Accept [QA991] from Raene Wolfrunner.
 [A Warrior,Hunter,Paladin,Druid] [G63.88,69.09 Stormwind City] [T] [LE Polearms 1-] [O] At Woo Ping, learn Polearms if needed for a weapon you plan to use (1 gold before discounts).
 [G39.24,84.96 Stormwind City] [T] [A Warlock] Train level-20 spells, including Demon Armor, Shadow Bolt IV, Immolate III, Curse of the Elements I, Rain of Fire, Health Funnel II and Ritual of Summoning.
 [G39.53,84.53 Stormwind City] [A Warlock] Buy and use Voidwalker Torment II.
+[A Warlock] [O] Short on gold? Curse of the Elements, Rain of Fire and Ritual of Summoning can wait until the next visit.
+[A Warlock] [O] Accept [QA1716] from Gakin the Darkbinder in the Slaughtered Lamb's cellar to start the Succubus or Incubus quest.
 [A Warrior] [G80.55,59.87 Stormwind City] [T] At Wu Shen, learn Cleave I, Dual Wield, Rend III, Retaliation, Slam I and Victory Rush.
 [A Shaman] [G69.11,31.30 Stormwind City] Take the Deeprun Tram from the Dwarven District to Ironforge for Shaman training.
 [A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Ghost Wolf, Totemic Recall, Call of the Elements, Frost Shock I, Frostbrand Weapon I, Lesser Healing Wave I, Lightning Bolt IV and Searing Totem II.
@@ -78,6 +88,10 @@ Accept [QA991] from Raene Wolfrunner.
 [A Druid,Skyborne,NightElf] [G35.37,8.40 Darnassus] [T] Learn Demoralizing Roar II, Shred I, Rebirth I, Mark of the Wild III, Healing Touch IV, Starfire I and Omen of Clarity.
 [V] Repair, restock and train available abilities and chosen professions. [L64.93,70.71 Elwynn Forest] Expert Enchanting (level 20, 125 skill) is taught by Kitta Firewind atop the Tower of Azora in Elwynn Forest.
 [L34.41,48.00 Ashenvale] [H Astranaar] [F Astranaar] [O] Hearth to Astranaar if ready; otherwise take the boat to Auberdine (from Darnassus, the Rut'theran boat) and fly to Astranaar.
+[A Warlock] [O] Sayaad detour (about 30 minutes): from Astranaar follow the road east and south into the Barrens, pass west of the Crossroads and find Takar the Seer by the road north of Camp Taurajo. Hearth back to Astranaar afterwards.
+[A Warlock] [O] Turn in [QT1716], then accept [QA1738] for a Succubus or [QA65602] for an Incubus.
+[A Warlock] [O] Collect the Heartswood from the great tree in Ashenvale for [QC1738].
+[A Warlock] [O] Collect the Wooden Figurine from the house in northern Ashenvale for [QC65602].
 Swim out to the island in Lake Iris east of Astranaar and take Elune's Tear for [QC1033].
 Turn in [QT1033], then accept [QA1034].
 Collect five Handfuls of Stardust from the bushes at the Ruins of Stardust south of Astranaar for [QC1034].
@@ -97,6 +111,7 @@ Accept an eligible [QA1199] share for the post-clear Darnassus delivery. [O]
 [G14.50,14.20 Ashenvale] Join a five-player Blackfathom party at the ruins entrance with a tank and healer ready. Follow the flooded approach together. [O]
 [A Warlock] [O] Use Unending Breath for the underwater sections.
 Clear Blackfathom with the party; go as far as the group can safely manage. [O]
+[A Warlock] [O] Need-roll: Ghamoo-ra's Bind (Ghamoo-ra, requires 22: +7 Stamina, +8 spell damage), Gaze Dreamer Pants (Kelris, requires 23: +9 Spirit, +12 spell damage) and Rod of the Sleepwalker (Kelris, requires 24: staff, +32 spell damage).
 After the turtle room, find Argent Guard Thaelrid on the side island and turn in [QT1198] before proceeding toward Kelris. [O]
 Accept [QA1200] directly from Thaelrid. [O]
 Collect eight Corrupted Brain Stems from the naga and satyrs during the clear for [QC1275]. [O]

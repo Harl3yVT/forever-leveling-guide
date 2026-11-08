@@ -1,0 +1,3 @@
+# Your WoW Forever folder (the one that holds Interface\AddOns). Change this one line if yours is elsewhere.
+# The FOREVER_WOW_DIR environment variable overrides it.
+WOW_DIR = C:\Program Files (x86)\World of Warcraft\_forever_

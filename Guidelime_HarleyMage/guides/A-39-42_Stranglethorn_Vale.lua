@@ -6,6 +6,9 @@ Guidelime.registerGuide([[
 [NX 42-44 Badlands (Alliance)]
 [A Mage] [O] Talents: At 40, Ice Barrier. Train Frostfire Bolt at 40. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Ice Barrier before each pull, Frostbolt or Frostfire Bolt to open, Frost Nova and shatter, Ice Lance on Fingers of Frost procs, Fire Blast to finish. Cold Snap refreshes Ice Barrier and Frost Nova in emergencies.
+[A Warlock] [O] Talents: At 40, Soul Siphon 3/3. At 41, Siphon Life. At 42, Malevolence 1/5. The WarlockKit talent button (/wk talents) shows the next pick.
+[A Warlock] [OC] Rotation: Bane of Agony, Corruption, Siphon Life when you have it, then Drain Life as the filler. Life Tap whenever health is full; wand only to finish. Curse of the Elements on long fights.
+[A Warlock] [OC] Group or elite steps: send the Voidwalker in first and let it hold aggro, Fear any add, and Sacrifice it when it is about to die. Without a group, skip the optional [O] group steps.
 [XP39] Start in Booty Bay at 39. Keep the northern jungle quests, Hemet's crate, Encrusted Tail Fins, Kravel's parts, Goblin Sponsorship, The Scarlet Key and In the Name of the Light.
 For Nat Pagle, collect the Savage Coast Blue Sailfin, Misty Reed Mahi Mahi, Feralas Ahi and Sar'theris Striker for [QC6607]. [O] [L19.50,20.90 Stranglethorn Vale] [L74.40,3.70 Swamp of Sorrows] [L62.10,51.40 Feralas] [L22.80,76.80 Desolace]
 [G27.04,77.31 Stranglethorn Vale] [S Booty Bay] Bind with Skindle for the northern circuit.
@@ -73,6 +76,8 @@ Return to Southshore and fly to Stormwind. [G49.34,52.27 Hillsbrad Foothills] [F
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Cower II, Dire Bear Form, Feline Grace, Ferocious Bite III, Hurricane I, Innervate, Mark of the Wild V, Moonfire VII, Prowl II, Rebirth III, Rejuvenation VII and Tranquility II.
 [A Druid] [G63.11,74.94 Stormwind City] [V] Buy Ashwood Seeds from Kyra Boucher for your new Rebirth rank.
 Accept [QA4488]. [A Warlock]
+[A Warlock] [O] Summon Felsteed is free. If the spell asks for riding skill, learn Apprentice Riding from Randal Hunter in Eastvale.
+[A Warlock] [O] Short on gold? Curse of the Elements III and Create Soulstone III can wait until the next visit.
 Accept [QA3636].
 [G60.39,75.27 Stormwind City] [S Stormwind City] Bind with Allison for the Razorfen Downs return.
 [V] Repair, restock and train available abilities and chosen professions.
@@ -80,6 +85,9 @@ Accept [QA3636].
 Fly to Booty Bay and take the Ratchet ship. [G70.95,72.51 Stormwind City] [F Booty Bay]
 [A Warlock] Turn in [QT4488].
 [A Warlock] Accept [QA4490], then turn in [QT4490] to Strahad to learn Summon Felsteed.
+[A Warlock] [O] Felhunter: with the Reconstructed Tome and three Rods of Channeling, turn in [QT1804] to Strahad, then accept [QA1795].
+[A Warlock] [O] Use the Tome of the Cabal at Strahad's circle and subdue the felhunter for [QC1795].
+[A Warlock] [O] Turn in [QT1795] and learn Summon Felhunter.
 Fly to Gadgetzan through Theramore. [G63.08,37.16 The Barrens] [F Gadgetzan]
 [G52.34,27.72 Tanaris] [LE Engineering 300-] [O] Learn Artisan Engineering from Buzzek Bracketswing outside the inn (level 35, 200 Engineering); skip if not ready.
 [G52.63,28.11 Tanaris] [LE Cooking 300-] [O] At Dirge Quikcleave in the inn, complete Clamlette Surprise with the purchased ingredients to learn Artisan Cooking (225 Cooking). Skip if not ready or missing ingredients.
@@ -97,6 +105,7 @@ Join a five-player Razorfen Downs party with a tank and healer ready for level-4
 [G48.61,89.93 The Barrens] Clear the outer thorn passages with the party: eight Razorfen Battleguards, eight Thornweavers and eight Death's Head Cultists for [QC6626]. The objectives are outside the instance.
 Turn in [QT6626].
 [A Priest,Mage,Warlock] [O] Razorfen Downs trash can drop the Freezing Shard (requires 34); Plaguemaw the Rotting drops the Plaguerot Sprig (requires 35) and the rare Lady Falther'ess drops Lady Falther'ess' Finger (requires 36). Roll Need on whichever beats your wand.
+[A Warlock] [O] Razorfen Downs Need-rolls: Mordresh's Lifeless Skull (off-hand, requires 36: +16 Shadow damage), Deathmage Sash (requires 36) and Robes of the Lich (Amnennar, requires 38: +20 Stamina, +14 Shadow damage).
 Enter Razorfen Downs together. Ring the gong for each wave, clear it before the next ring, then defeat Tuten'kash. Continue through the lower passages and upper spiral.
 With the party, accept [QA3523] from Belnistrasz; leave the escort unaccepted until everyone has turned this in and confirmed they're ready.
 Let everyone turn in [QT3523], then confirm that the party is ready before starting the escort.

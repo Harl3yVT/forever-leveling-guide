@@ -6,6 +6,7 @@ Guidelime.registerGuide([[
 [NX 31-33 Hillsbrad Foothills (Harley)]
 [A Mage] [O] Talents: At 30, Fingers of Frost 1/2. Train Ice Armor at 30 and use it instead of Frost Armor. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt to pull, Frost Nova, then shatter with Frostbolt or Ice Lance. A Fingers of Frost proc makes your next Ice Lance hit as if the target were frozen. Cone of Cold for packs; Cold Snap resets Frost Nova when a pull goes wrong. Ice Armor while questing, Mage Armor for long mana-heavy grinds.
+[A Warlock] [O] Talents: At 31, Improved Bane of Agony 1/2. The WarlockKit talent button (/wk talents) shows the next pick.
 [XP30] Start in Lakeshire at 30. Keep Mor'Ladim, Armed and Ready and Morbent's Bane.
 [A Priest] [O] Talent point: Mental Agility 1/3 at 31.
 Fly to Southshore using the known connections. [G25.50,59.41 Redridge Mountains] [F Southshore]

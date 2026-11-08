@@ -6,6 +6,7 @@ Guidelime.registerGuide([[
 [NX 33-34 Stranglethorn Vale (Harley)]
 [A Mage] [O] Talents: From 31 to 35: Improved Cone of Cold and Cold Snap. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt to pull, Frost Nova, then shatter with Frostbolt or Ice Lance. A Fingers of Frost proc makes your next Ice Lance hit as if the target were frozen. Cone of Cold for packs; Cold Snap resets Frost Nova when a pull goes wrong. Ice Armor while questing, Mage Armor for long mana-heavy grinds.
+[A Warlock] [O] Talents: At 32, Improved Bane of Agony 2/2. At 33, Improved Life Tap 1/2. The WarlockKit talent button (/wk talents) shows the next pick.
 [XP31] Start in Stormwind at 31 with Southshore bound. Keep Mor'Ladim, Armed and Ready and Morbent's Bane.
 [A Priest] [O] Talent points: Mental Agility 2/3 at 32, Improved Inner Fire 1/3 at 33.
 Accept [QA98219]; keep it for Lieutenant Farren in Southshore.
@@ -24,6 +25,7 @@ Leave Ironforge for Kharanos, then accept [QA2926].
 Join a five-player Gnomeregan party at the entrance with a tank and healer ready for level-34 Thermaplugg.
 Take the elevator down and follow the entrance tunnels.
 [A Priest,Mage,Warlock] [O] Gnomeregan's mechanical and irradiated elites can drop the Gyromatic Icemaker (requires 26). Roll Need only if you have no Dalaran wand.
+[A Warlock] [O] Gnomeregan Need-rolls: Hydrocane (Viscous Fallout, requires 27: staff, +36 spell damage), Spidertank Oilrag (Electrocutioner, requires 29: bracers, +9 spell damage) and Electromagnetic Gigaflux Reactivator (Thermaplugg, requires 31: +8 Intellect, +9 Spirit, +8 spell damage).
 Kill Techbot in the outer loading area and loot his Memory Core for [QC2922].
 Use Ozzie's Empty Leaden Collection Phial on living Irradiated Invaders until it is full for [QC2926].
 Take a White Punch Card from the outer enemies and use Matrix Punchograph 3005-A for a Yellow Punch Card before entering.
@@ -87,6 +89,7 @@ Take the tram to Stormwind, then turn in [QT563].
 [A Priest] [G49.53,44.60 Stormwind City] [T] At High Priestess Laurena, learn Flash Heal III, Renew V and Shadow Word: Death I (80s each).
 [A Priest] [G49.53,44.60 Stormwind City] [T] [O] If gold allows, also learn Abolish Disease and Mana Burn II (80s each). They can wait.
 [G39.24,84.96 Stormwind City] [T] [A Warlock] Train Fear II, Shadow Ward and Curse of Weakness IV; train Shadowburn when talented. At Spackle (39.53,84.53), buy and use Voidwalker Sacrifice III.
+[A Warlock] [O] Short on gold? Shadow Ward and Curse of Weakness IV can wait until the next visit.
 [A Warrior] [G80.55,59.87 Stormwind City] [T] At Wu Shen, learn Battle Shout IV, Execute II, Hamstring II, Heroic Strike V and Shield Bash II.
 [A Rogue] [G77.43,65.31 Stormwind City] [T] At Osborne the Night Man, learn Gouge III and Eviscerate V.
 [A Rogue] [G77.43,65.31 Stormwind City] [T] At Osborne the Night Man, learn Wound Poison I (140 Poisons). Learn recipes as your Poisons skill allows; skip unavailable recipes.

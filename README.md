@@ -18,12 +18,15 @@ Open the **CurseForge app**, pick **World of Warcraft**, and switch the game ver
 
 ### 2. Get this guide
 
-1. On this page, click the green **Code** button, then **Download ZIP**.
+1. Open the [latest release](https://github.com/Harl3yVT/forever-leveling-guide/releases/latest) and download `forever-leveling-guide-<version>.zip`.
 2. Extract the ZIP.
-3. Copy these two folders into your game's AddOns folder:
+3. Copy these folders into your game's AddOns folder:
 
    - `Guidelime_HarleyMage`
    - `Guidelime_Bethink`
+   - `WarlockKit` (optional, only useful on a Warlock: type `/wk` in game)
+
+   Or run `install.ps1 -GameDir "<your _forever_ folder>"` from the extracted folder.
 
    The AddOns folder is usually:
 
@@ -54,7 +57,23 @@ already done, tick its box.
 
 ## Updating
 
-Download the ZIP again and replace the two folders. Your progress in the guide is kept.
+Download the newest release ZIP and unzip the folders over the old ones in `Interface\AddOns`, replacing them. Your progress in the guide is kept. `CHANGELOG.md` lists what changed.
+
+## Found a wrong step?
+
+Open an issue with the **Wrong or missing guide step** form (Issues tab, New issue).
+
+## Editing with AI
+
+You can change the guide, or build your own addons, with any AI coding tool or a local model (Claude Code, Cursor, ChatGPT, Ollama, LM Studio and so on).
+
+- Start with [AGENTS.md](AGENTS.md). Most AI tools read it automatically. It explains the tags, the rules and how to check the work.
+- [docs/ai-prompt-template.md](docs/ai-prompt-template.md) is a ready-to-paste prompt for jobs like "add or fix steps for level X-Y".
+- Check any edit with one command (plain Python 3.10+, nothing to install):
+
+  ```
+  python tools/validate.py
+  ```
 
 ## Credits and license
 

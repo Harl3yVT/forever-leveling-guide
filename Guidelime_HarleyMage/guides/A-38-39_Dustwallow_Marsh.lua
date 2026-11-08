@@ -6,6 +6,7 @@ Guidelime.registerGuide([[
 [NX 39-42 Stranglethorn Vale (Harley)]
 [A Mage] [O] Talents: Keep following the Questing Frost build. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt to pull, Frost Nova, then shatter with Frostbolt or Ice Lance. A Fingers of Frost proc makes your next Ice Lance hit as if the target were frozen. Cone of Cold for packs; Cold Snap resets Frost Nova when a pull goes wrong. Ice Armor while questing, Mage Armor for long mana-heavy grinds.
+[A Warlock] [O] Talents: At 39, Soul Siphon 2/3. The WarlockKit talent button (/wk talents) shows the next pick.
 [XP38] Start in Stormwind at 38. Keep Morgan Stern, three Soothing Spices and the carried jungle/Flats quests.
 [A Priest] [O] Talent point: Improved Power Word: Shield 3/3 at 39.
 Take the tram to Ironforge.

@@ -6,10 +6,12 @@ Guidelime.registerGuide([[
 [NX 35-37 Desolace (Harley)]
 [A Mage] [O] Talents: Finish Improved Cone of Cold and Cold Snap by 35. Train Mage Armor at 34. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt to pull, Frost Nova, then shatter with Frostbolt or Ice Lance. A Fingers of Frost proc makes your next Ice Lance hit as if the target were frozen. Cone of Cold for packs; Cold Snap resets Frost Nova when a pull goes wrong. Ice Armor while questing, Mage Armor for long mana-heavy grinds.
+[A Warlock] [O] Talents: At 35, Pandemic 1/3. The WarlockKit talent button (/wk talents) shows the next pick.
 [XP34] Arrive in Ratchet from Booty Bay at 34. Keep the crash helmets and later deliveries.
 [A Priest] [O] Talent point: Improved Inner Fire 3/3 at 35.
 [G63.08,37.16 The Barrens] [P Ratchet]
 [G62.05,39.41 The Barrens] [S Ratchet] Bind with Wiley for the return from the Shimmering Flats.
+[A Warlock] [O] Felhunter: turn in [QT1798] to Strahad Farsan, then accept [QA1758].
 Accept [QA1221].
 Take the Crate with Holes, Snufflenose Command Stick and Owner's Manual beside Mebok. Read the manual and keep all three. [G62.32,37.61 The Barrens]
 [V] Repair and restock before the Thalanaar quest pickup.
@@ -20,6 +22,7 @@ Turn in [QT1100], then accept [QA1101].
 Accept [QA98155].
 Collect five Pristine Pesterhide Pelts from Pesterhide Snarlers in the western canyon for [QC98155].
 Return east along the canyon and ride the Great Lift up. Take the western thorn path to Razorfen Kraul. [G42.33,89.91 The Barrens]
+[A Warlock] [O] Razorfen Kraul Need-rolls: Staff of the Shade (trash, requires 22: +37 Shadow damage), Death Prophet Spine (Aggem, requires 26: staff, +34 spell damage), Death Speaker Robes (requires 26) and Swinetusk Shank (Agathelos, requires 30: dagger, +40 spell damage).
 Form a five-player Razorfen Kraul party with a tank and healer.
 Enter and clear one route through the dungeon.
 After clearing the lower passages, use the crate to summon your Snufflenose Gopher. Use the Command Stick near tuber patches; collect six Blueleaf Tubers for [QC1221] and keep the crate and stick. [O]
@@ -68,6 +71,7 @@ Turn in [QT1181], then accept [QA1182]; keep the blueprint task for the later no
 [G49.53,44.60 Stormwind City] [T] [O] If gold allows, also learn Levitate and Resurrection III (90s each); keep a few Light Feathers for Levitate. They can wait.
 Turn in [QT98156] to Kimberly Grant if you carry the package. [O]
 [G39.24,84.96 Stormwind City] [T] [A Warlock] Train Corruption IV, Create Healthstone III, Drain Mana II, Rain of Fire II and Searing Pain III. At Spackle (39.53,84.53), buy and use Imp Fire Shield III and Voidwalker Consume Shadows III.
+[A Warlock] [O] Short on gold? Drain Mana II and Rain of Fire II can wait until the next visit.
 [A Warrior] [G80.55,59.87 Stormwind City] [T] At Wu Shen, learn Demoralizing Shout III, Revenge III and Sunder Armor III.
 [A Rogue] [G77.43,65.31 Stormwind City] [T] At Osborne the Night Man, learn Blind, Sprint II and Ambush III. Keep Blinding Powder for Blind.
 [A Rogue] [G77.43,65.31 Stormwind City] [T] At Osborne the Night Man, learn Blinding Powder (150 Poisons). Learn recipes as your Poisons skill allows; skip unavailable recipes.

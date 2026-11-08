@@ -1,0 +1,8 @@
+<Bindings>
+  <Binding name="CLICK WarlockKitButton_void:LeftButton" header="WARLOCKKIT" category="ADDONS">
+  </Binding>
+  <Binding name="CLICK WarlockKitButton_hs:LeftButton" category="ADDONS">
+  </Binding>
+  <Binding name="CLICK WarlockKitButton_ss:LeftButton" category="ADDONS">
+  </Binding>
+</Bindings>

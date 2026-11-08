@@ -6,6 +6,8 @@ Guidelime.registerGuide([[
 [NX 37-38 Arathi Highlands (Harley)]
 [A Mage] [O] Talents: From 36 to 39, spend points as the Questing Frost build lists them. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt to pull, Frost Nova, then shatter with Frostbolt or Ice Lance. A Fingers of Frost proc makes your next Ice Lance hit as if the target were frozen. Cone of Cold for packs; Cold Snap resets Frost Nova when a pull goes wrong. Ice Armor while questing, Mage Armor for long mana-heavy grinds.
+[A Warlock] [O] Talents: At 36-37, Pandemic 2/3 and 3/3. The WarlockKit talent button (/wk talents) shows the next pick.
+[A Warlock] [OC] Rotation: Bane of Agony, Corruption, Siphon Life when you have it, then Drain Life as the filler. Life Tap whenever health is full; wand only to finish. Curse of the Elements on long fights.
 Start in Auberdine (or Darnassus) after the Thousand Needles journey. Keep Reclaimers' Business in Desolace, Brother Anton, Mythology of the Titans and the Southshore letters.
 If you're in Darnassus, portal to Rut'theran and boat to Auberdine. Follow the road south into Ashenvale and east to Astranaar. [G34.41,48.00 Ashenvale] [P Astranaar]
 [G49.48,67.09 Ashenvale] [LE Cooking 225-] [O] Follow the road southeast to Shandrina at Silverwind Refuge beside Mystral Lake. Buy and use Expert Cookbook (125 Cooking); skip if not ready.
@@ -76,6 +78,7 @@ Join a five-player party with a tank and healer for the Graveyard clear.
 Enter the left-hand Graveyard portal together.
 Clear the Graveyard through Interrogator Vishas and Bloodmage Thalnos, then return to the vestibule.
 [A Priest,Mage,Warlock] [O] If the rare Azshir the Sleepless is up in the Graveyard, kill him with the party; he can drop the Necrotic Wand (requires 30).
+[A Warlock] [O] Scarlet Monastery Need-rolls: Bloodmage Mantle and Orb of the Forgotten Seer (Thalnos, requires 30 and 32), then in the Library Hypnotic Blade or Illusionary Rod (Doan, requires 34: +44 spell damage) and Mantle of Doan.
 At the right-hand Library portal, join a five-player party with a tank and healer. Defeat Houndmaster Loksey for In the Name of the Light, then clear through Arcanist Doan.
 Defeat Houndmaster Loksey for [QC1053,4]. Keep the other three bosses for the later visit. [O]
 Collect Mythology of the Titans from the bookshelf in the Library's final rooms for [QC1050].
@@ -86,6 +89,9 @@ Turn in [QT1050].
 [A Priest] [G24.73,8.16 Ironforge] [T] At High Priest Rohan, learn Devouring Plague III, Power Word: Fortitude IV and Power Word: Shield VI (1g each).
 [A Priest] [G24.73,8.16 Ironforge] [T] [O] If gold allows, also learn Dispel Magic II, Holy Fire IV and Mind Soothe II (1g each). They can wait.
 [G50.08,7.45 Ironforge] [T] [A Warlock] Train Shadow Bolt VI, Life Tap IV, Health Funnel IV, Create Firestone II and Create Spellstone. At Jubahl (52.70,6.08), buy and use Voidwalker Suffering II.
+[A Warlock] [O] Short on gold? Create Firestone II and Health Funnel IV can wait until the next visit.
+[A Warlock] [O] Felhunter: turn in [QT1758] to Krom Stoutarm in the Hall of Explorers, then accept [QA1802].
+[A Warlock] [O] For [QC1802], take the Moldy Tome in western Hillsbrad and the Tattered Manuscript in Thousand Needles when you pass them. [L27.80,72.80 Hillsbrad Foothills] [L43.40,32.70 Thousand Needles]
 [A Warrior] [G70.34,90.65 Ironforge] [T] At Kelv Sternhammer, learn Mocking Blow III and Whirlwind.
 [A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Ancestral Spirit III, Earth Shock V, Flametongue Weapon IV, Lesser Healing Wave III, Magma Totem II, Mana Spring Totem II and Windwall Totem I.
 [A Rogue] [G51.96,14.84 Ironforge] [T] At Hulfdan Blackbeard, learn Backstab V, Expose Armor III and Rupture III.

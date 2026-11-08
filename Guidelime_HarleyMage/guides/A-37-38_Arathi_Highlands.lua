@@ -6,6 +6,7 @@ Guidelime.registerGuide([[
 [NX 38-39 Dustwallow Marsh (Harley)]
 [A Mage] [O] Talents: Keep following the Questing Frost build. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt to pull, Frost Nova, then shatter with Frostbolt or Ice Lance. A Fingers of Frost proc makes your next Ice Lance hit as if the target were frozen. Cone of Cold for packs; Cold Snap resets Frost Nova when a pull goes wrong. Ice Armor while questing, Mage Armor for long mana-heavy grinds.
+[A Warlock] [O] Talents: At 38, Soul Siphon 1/3. The WarlockKit talent button (/wk talents) shows the next pick.
 Start in Southshore after the Monastery book delivery, with Southshore bound. Keep Further Mysteries, Hints of a New Plague, In the Name of the Light and The Scarlet Key.
 Turn in [QT525].
 [V] Repair and restock before the Arathi circuits.
@@ -81,6 +82,7 @@ Turn in [QT697].
 [O] Save gold for the level-40 riding skill and mount; skip optional ranks until it is covered.
 [A Priest,Mage,Warlock] [O] With Formula: Twisted Nether Wand and 185 Enchanting, craft the Twisted Nether Wand (requires 37, soulbound).
 [G39.24,84.96 Stormwind City] [T] [A Warlock] Train Bane of Agony IV, Drain Life IV, Drain Soul III and Detect Invisibility II; train Siphon Life when talented. At Spackle (39.53,84.53), buy and use Imp Firebolt V and Blood Pact IV.
+[A Warlock] [O] Short on gold? Detect Invisibility II can wait until the next visit.
 [A Warrior] [G80.55,59.87 Stormwind City] [T] At Wu Shen, learn Pummel I, Slam III and Thunder Clap IV.
 [A Rogue] [G77.43,65.31 Stormwind City] [T] At Osborne the Night Man, learn Garrote IV and Sinister Strike VI.
 [A Rogue] [G77.43,65.31 Stormwind City] [T] At Osborne the Night Man, learn Deadly Poison II and Mind-numbing Poison II (170 Poisons). Learn recipes as your Poisons skill allows; skip unavailable recipes.

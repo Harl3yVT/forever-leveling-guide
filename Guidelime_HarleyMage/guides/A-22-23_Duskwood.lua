@@ -6,6 +6,7 @@ Guidelime.registerGuide([[
 [NX 23-25 Wetlands (Harley)]
 [A Mage] [O] Talents: At 23, Frost Channeling 3/3. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt, Frostbolt, then Ice Lance or Fire Blast to finish. Frost Nova when they reach you and Ice Lance the frozen target. Blizzard is for grouped pulls with Frost Nova ready. Mana Shield only in emergencies; Evocation when you are dry.
+[A Warlock] [O] Talents: At 23, Unholy Power 4/5. The WarlockKit talent button (/wk talents) shows the next pick.
 [XP22] Start in Stormwind at 22. Fly to Lakeshire, then follow the road south into Duskwood and west to Darkshire. [G70.95,72.51 Stormwind City] [F Lakeshire]
 [G77.49,44.29 Duskwood] [P Darkshire] Take Felicia Maline's flight point on arrival.
 Accept [QA174].

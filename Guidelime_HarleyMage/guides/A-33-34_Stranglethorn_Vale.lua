@@ -6,6 +6,7 @@ Guidelime.registerGuide([[
 [NX 34-35 Thousand Needles (Harley)]
 [A Mage] [O] Talents: Keep going with Improved Cone of Cold and Cold Snap. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt to pull, Frost Nova, then shatter with Frostbolt or Ice Lance. A Fingers of Frost proc makes your next Ice Lance hit as if the target were frozen. Cone of Cold for packs; Cold Snap resets Frost Nova when a pull goes wrong. Ice Armor while questing, Mage Armor for long mana-heavy grinds.
+[A Warlock] [O] Talents: At 34, Improved Life Tap 2/2. The WarlockKit talent button (/wk talents) shows the next pick.
 [XP33] Start at the northern Stranglethorn border at 33. Keep A Fine Mess for Scooty and the later deliveries.
 [A Priest] [O] Talent point: Improved Inner Fire 2/3 at 34.
 Accept [QA203] and [QA204].

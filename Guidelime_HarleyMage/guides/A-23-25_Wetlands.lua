@@ -6,6 +6,8 @@ Guidelime.registerGuide([[
 [NX 25-28 Duskwood (Harley)]
 [A Mage] [O] Talents: At 24, Improved Blizzard 1/3. At 25, Ice Shards 4/5. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt, Frostbolt, then Ice Lance or Fire Blast to finish. Frost Nova when they reach you and Ice Lance the frozen target. Blizzard is for grouped pulls with Frost Nova ready. Mana Shield only in emergencies; Evocation when you are dry.
+[A Warlock] [O] Talents: At 24, Unholy Power 5/5. At 25, Demonic Energies 1/2. The WarlockKit talent button (/wk talents) shows the next pick.
+[A Warlock] [O] Queuing for Shadowfang Keep? Need-roll Odo's Ley Staff (Odo, requires 21: +12 Spirit, +17 spell damage), Belt of Arugal (Arugal, requires 23: +5 Spirit, +9 spell damage) and Feline Mantle (requires 23: +8 Intellect, +4 spell damage).
 [XP23] Start in Stormwind at 23. Keep the carried Duskwood quests and Unrequited Love.
 [A Priest] [O] Talent points: Twin Disciplines 5/5 at 23, Martyrdom 1/2 at 24 and 2/2 at 25.
 Take the Deeprun Tram from the Dwarven District to Ironforge, then go to the flight master. [G69.55,31.26 Stormwind City]
@@ -68,6 +70,7 @@ Turn in [QT98459] to Bart Tidewater.
 [G9.49,59.69 Wetlands] [F Ironforge] Fly to Ironforge for level-24 training; keep Menethil bound.
 [A Priest] [G24.73,8.16 Ironforge] [T] At High Priest Rohan, learn Power Word: Shield IV and Power Word: Fortitude III (50s each). Holy Fire II and Mana Burn can wait if gold is short.
 [G50.08,7.45 Ironforge] [T] [A Warlock] Train Corruption III, Drain Soul II, Drain Mana and Sense Demons; train Shadowburn when talented.
+[A Warlock] [O] Short on gold? Drain Mana and Sense Demons can wait until the next visit.
 [A Warrior] [G70.34,90.65 Ironforge] [T] At Kelv Sternhammer, learn Demoralizing Shout II, Execute I, Heroic Strike IV and Revenge II.
 [A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Ancestral Spirit II, Earth Shock IV, Frost Resistance Totem I, Healing Wave V, Lightning Shield III, Rockbiter Weapon IV, Stoneskin Totem III and Strength of Earth Totem II.
 [A Rogue] [G51.96,14.84 Ironforge] [T] At Hulfdan Blackbeard, learn Detect Traps, Eviscerate IV and Shank I.
