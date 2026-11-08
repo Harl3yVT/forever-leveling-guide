@@ -2,6 +2,10 @@
 
 One line per version. The newest version is at the top.
 
+- **0.5.1** (2026-11-08):
+  - WarlockKit 0.2.0 now runs on **HarleyLib** (new folder, install it too): the same Forever client fixes as Harley's other kits, `/wk status` self-test window, settings migrate automatically, commands refuse to run in combat. Fixed `/wk test` erroring on the alerts check when you had no pet.
+  - `install.ps1` backs up the old addon folders to `_forever_\AddOn-backups` before replacing them.
+  - Checks run on every push and pull request (guide validator + Lua syntax). Bethink's duplicate `tools/` folder was removed; `tools/` is the only copy.
 - **0.5.0** (2026-11-07):
   - **Warlock layer:**
     - Succubus and Incubus quests at 20, an optional Felhunter chain at 30, and a check of the Felsteed quest at 40.

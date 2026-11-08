@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: HarleyLib
+## Notes: Shared core for MageKit, AltKit and WarlockKit: client compat, events, versioned settings, self-test window, talent and vendor helpers.
+## Author: Harl3yVT
+## Version: 1.0.0
+Compat.lua
+Embed.lua
+Status.lua
+Talents.lua
+Seller.lua

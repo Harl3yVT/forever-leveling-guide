@@ -114,5 +114,5 @@ end
 function M.Test()
   return ("shards=%d hs=%d ss=%d pet=%s autocastOff=%s armorMissing=%s"):format(ns.ItemCount(ns.SHARD),
     ns.CountAny(ns.HEALTHSTONES), ns.CountAny(ns.SOULSTONES), tostring(UnitExists("pet")),
-    tostring(PetAutocast()), tostring(ArmorMissing()))
+    tostring((PetAutocast())), tostring((ArmorMissing())))
 end

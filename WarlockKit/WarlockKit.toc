@@ -2,8 +2,9 @@
 ## Title: WarlockKit
 ## Notes: Soul Shard counter, pet/armor/stone alerts, pet + stone buttons, Affliction talent helper, leveling hotbar layout. /wk
 ## Author: Harl3yVT
-## Version: 0.1.0
+## Version: 0.2.0
 ## SavedVariables: WarlockKitDB
+## Dependencies: HarleyLib
 ## OptionalDeps: HarleyExport
 Core.lua
 Alerts.lua

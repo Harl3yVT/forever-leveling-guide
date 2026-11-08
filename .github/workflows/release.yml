@@ -17,12 +17,12 @@ jobs:
       - name: Zip addons
         run: |
           VER="${GITHUB_REF_NAME#v}"
-          zip -r "forever-leveling-guide-${VER}.zip" Guidelime_HarleyMage Guidelime_Bethink WarlockKit
+          zip -r "forever-leveling-guide-${VER}.zip" Guidelime_HarleyMage Guidelime_Bethink HarleyLib WarlockKit
           echo "VER=${VER}" >> "$GITHUB_ENV"
       - name: Publish release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh release create "$GITHUB_REF_NAME" "forever-leveling-guide-${VER}.zip" \
-            --title "Guide ${VER}" --notes "See CHANGELOG.md. Unzip the three folders into Interface\\AddOns, replacing the old ones." \
+            --title "Guide ${VER}" --notes "See CHANGELOG.md. Unzip the four folders into Interface\\AddOns, replacing the old ones." \
             || gh release upload "$GITHUB_REF_NAME" "forever-leveling-guide-${VER}.zip" --clobber

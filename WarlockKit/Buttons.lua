@@ -64,7 +64,7 @@ function M.Init()
     btn:SetSize(36, 36)
     btn:RegisterForClicks(ns.KeyDown() and "AnyDown" or "AnyUp")
     btn:RegisterForDrag("RightButton")
-    btn:SetScript("OnDragStart", function() if not InCombatLockdown() and not ns.db.locked then row:StartMoving() end end)
+    btn:SetScript("OnDragStart", function() if not InCombatLockdown() and not ns.Locked() then row:StartMoving() end end)
     btn:SetScript("OnDragStop", function()
       row:StopMovingOrSizing()
       local p, _, rp, x, y = row:GetPoint(); ns.db.pos.buttons = { p, rp, x, y }

@@ -1,0 +1,22 @@
+# Checks every push and pull request: guide validator (plain Python) and a Lua syntax check of every addon file.
+name: check
+on:
+  push:
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate the guide
+        run: python tools/validate.py
+      - name: Install lune 0.11.0
+        run: |
+          curl -fsSL -o lune.zip https://github.com/lune-org/lune/releases/download/v0.11.0/lune-0.11.0-linux-x86_64.zip
+          unzip -q lune.zip -d "$HOME/.lune" && chmod +x "$HOME/.lune/lune"
+          echo "$HOME/.lune" >> "$GITHUB_PATH"
+      - name: Lua syntax
+        run: lune run tools/check.luau Guidelime_HarleyMage Guidelime_Bethink HarleyLib WarlockKit

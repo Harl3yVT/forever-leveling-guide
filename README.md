@@ -24,7 +24,7 @@ Open the **CurseForge app**, pick **World of Warcraft**, and switch the game ver
 
    - `Guidelime_HarleyMage`
    - `Guidelime_Bethink`
-   - `WarlockKit` (optional, only useful on a Warlock: type `/wk` in game)
+   - `HarleyLib` and `WarlockKit` (optional, only useful on a Warlock: type `/wk` in game; WarlockKit needs HarleyLib)
 
    Or run `install.ps1 -GameDir "<your _forever_ folder>"` from the extracted folder.
 
@@ -34,7 +34,7 @@ Open the **CurseForge app**, pick **World of Warcraft**, and switch the game ver
    C:\Program Files (x86)\World of Warcraft\_forever_\Interface\AddOns
    ```
 
-   It's wherever your `_forever_` folder is. Copy the two folders themselves, not a `forever-leveling-guide-main` folder that holds them.
+   It's wherever your `_forever_` folder is. Copy the folders themselves, not a `forever-leveling-guide-main` folder that holds them.
 
 ### 3. In game
 
@@ -57,7 +57,7 @@ already done, tick its box.
 
 ## Updating
 
-Download the newest release ZIP and unzip the folders over the old ones in `Interface\AddOns`, replacing them. Your progress in the guide is kept. `CHANGELOG.md` lists what changed.
+Download the newest release ZIP and unzip the folders over the old ones in `Interface\AddOns`, replacing them (or run `install.ps1` again: it backs up the old folders to `_forever_\AddOn-backups` first). Your progress in the guide is kept. `CHANGELOG.md` lists what changed.
 
 ## Found a wrong step?
 

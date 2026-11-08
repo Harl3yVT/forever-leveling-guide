@@ -19,10 +19,14 @@ This is a leveling guide for **WoW Forever**. It runs inside the game through th
 | --- | --- |
 | `Guidelime_HarleyMage/` | The guide addon. `Guidelime_HarleyMage.toc` lists the chapters; `guides/*.lua` holds one chapter per file. |
 | `Guidelime_Bethink/` | Bethink's 1-60 guides. The 42-60 part is used, and `AGENTS.md` inside it holds the original authoring rules. Don't edit it. |
-| `WarlockKit/` | A helper addon for warlocks: shard counter, pet and stone alerts, buttons, talent helper, bar layout. |
-| `tools/` | Python checkers: `validate.py`, `questie.py`, `guide_parser.py`, `xp_budget.py`, `zone.py`, `hub.py`. |
+| `WarlockKit/` | A helper addon for warlocks: shard counter, pet and stone alerts, buttons, talent helper, bar layout. Built on HarleyLib. |
+| `HarleyLib/` | Shared core for Harley's helper addons: client compat for Forever (C_* APIs, hidden "secret" values), events, versioned settings with migrations, a slash command that refuses in combat, the `/wk status` self-test window. A fix here reaches every kit. |
+| `tools/` | Python checkers: `validate.py`, `questie.py`, `guide_parser.py`, `xp_budget.py`, `zone.py`, `hub.py`, plus `check.luau` (Lua syntax check, needs [lune](https://github.com/lune-org/lune)). These are the only copies: Bethink's own `tools/` folder is left out of this repo. |
 | `docs/` | Background: how the route was built, the research notes and a prompt template for AI tools. |
-| `install.ps1`, `.github/workflows/release.yml` | Install the addons into the game. Pushing a `v*` tag builds the release zip. |
+| `install.ps1`, `.github/workflows/` | Install the addons into the game (old folders are backed up first). `check.yml` runs the checks on every push and pull request; pushing a `v*` tag builds the release zip. |
+
+### Where the code comes from
+`Guidelime_HarleyMage/`, `Guidelime_Bethink/`, `HarleyLib/`, `WarlockKit/` and `tools/check.luau` are copied from Harley's private repo by a sync script, so a change made only here can be overwritten at the next sync. Send it as a pull request or an issue and Harley moves it into the private repo. The README, this file, `CHANGELOG.md`, `docs/`, `install.ps1`, `.github/` and the Python tools belong to this repo and are edited here.
 
 ## Check your work (always do this)
 Everything runs on plain Python 3.10 or newer. Nothing needs to be installed with pip.
