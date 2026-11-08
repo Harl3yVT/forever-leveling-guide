@@ -35,6 +35,7 @@ Follow the southern shore road west to Thelsamar; leave Skullthumpers and Seers 
 Accept [QA416] and [QA1339].
 Accept [QA418].
 [G35.53,48.40 Loch Modan] [S Thelsamar] Bind at Thelsamar for mine, trogg and city returns.
+Accept [QA86667] from Grenhild Darktalon in Thelsamar. [O]
 [A Mage] [G35.53,48.40 Loch Modan] [CI208860,1] Inside the inn, collect Rumi of Gnomeregan: The Collected Works from the Gnomish Tome on the table near Drac Roughcut. Keep it for Garion Wendell in Stormwind.
 [V] Restock drinks.
 [A Shaman] [G31.40,58.20 Loch Modan] Take the narrow ridge trail to the Shrine of the Dormant Flame.
@@ -48,6 +49,7 @@ Turn in [QT1339], then accept [QA1338]; carry Stormpike's Request to Furen Longb
 [XP12] Reach level 12 on level 11-12 wildlife or the outside rat camps before entering the mine.
 Approach Silver Stream Mine along the western shore; avoid deep water and the trogg islands.
 [G35.46,19.88 Loch Modan] Collect four loads of Miners' Gear near the mine entrance for [QC307]. Pull level 12-13 Diggers and Geomancers singly; avoid level-14 Surveyors. Keep an exit and get help for inseparable packs.
+Follow the coast east to Norric Lochthane's house and turn in [QT86667]. [O]
 [A Shaman] [G35.46,19.88 Loch Modan] [CI5026,1] Collect one Fire Tar from the Tunnel Rat Geomancers near the mine entrance.
 Turn in [QT307].
 [H Thelsamar] [O] Hearth to Thelsamar if ready; otherwise follow the western shore.

@@ -2,7 +2,7 @@
 ## Title: Guidelime: Harley Mage (alts)
 ## Notes: Harley alt route for WoW Forever, every Alliance race and class, 1-42. Select "Harley Mage" in /lime.
 ## Author: Harl3yVT
-## Version: 0.2.0
+## Version: 0.3.0
 ## X-License: GPLv3 (route text adapted from Guidelime_Bethink by Bethink)
 ## RequiredDeps: Guidelime, QuestieDB
 

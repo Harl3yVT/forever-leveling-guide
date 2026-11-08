@@ -79,7 +79,8 @@ Return to Southshore, then turn in [QT564].
 Turn in [QT500].
 Turn in [QT512].
 Accept [QA659]; keep this delivery for the Arathi visit.
-Fly to Ironforge. [G49.34,52.27 Hillsbrad Foothills] [F Ironforge]
+[A Mage] [SP3562] Cast Teleport: Ironforge.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Fly to Ironforge. [G49.34,52.27 Hillsbrad Foothills] [F Ironforge]
 Turn in [QT514], then accept [QA525]; keep the decrypted letter for the Southshore return.
 [A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Chain Lightning I, Fire Nova III, Healing Wave VI, Lightning Bolt VI, Lightning Shield IV, Purge II and Windfury Totem I.
 Take the tram to Stormwind, then turn in [QT563].

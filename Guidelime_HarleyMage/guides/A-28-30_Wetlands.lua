@@ -22,6 +22,7 @@ Guidelime.registerGuide([[
 Take the Deeprun Tram to Ironforge. [G69.55,31.26 Stormwind City]
 [A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Fire Resistance Totem I, Flame Shock III, Flametongue Totem I, Frostbrand Weapon II, Lesser Healing Wave II, Stoneclaw Totem III and Water Walking. Keep a few Fish Oil for Water Walking.
 [G55.50,47.74 Ironforge] [F Menethil Harbor]
+Turn in [QT98461] to Tarrel Rockweaver north of the harbor if you still carry it. [O]
 Accept [QA464], [QA98221] and [QA98230] from Captain Stoutfist.
 Accept [QA98240] from James Halloran on the docks.
 Accept [QA288] from First Mate Fitzsimmons in the inn, buy a Flagon of Mead from the innkeeper for [QC288], then turn in [QT288]. Skip the cursed ship follow-up; it needs a group.
@@ -69,7 +70,8 @@ Return to Menethil. Hearth if ready; otherwise take the road. [H Menethil Harbor
 Turn in [QT95809].
 Turn in [QT464] and [QT98221].
 Turn in [QT98815].
-Fly to Ironforge for the relic delivery. [G9.49,59.69 Wetlands] [F Ironforge]
+[A Mage] [SP3562] Cast Teleport: Ironforge for the relic delivery.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Fly to Ironforge for the relic delivery. [G9.49,59.69 Wetlands] [F Ironforge]
 [G69.93,18.55 Ironforge] Turn in [QT98824].
 Take the tram to Stormwind for the Lightforge delivery and level-30 training.
 Turn in [QT322], then accept [QA325]; keep Morbent's Bane for the later Duskwood group visit.

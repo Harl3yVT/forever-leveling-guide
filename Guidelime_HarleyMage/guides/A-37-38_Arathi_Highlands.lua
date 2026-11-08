@@ -72,7 +72,8 @@ Turn in [QT668], then accept [QA669]; keep the sample gem for Fleet Master Seaho
 Return through the tunnel and follow the road to Refuge Pointe. Turn in [QT696], then accept [QA697].
 Fly to Southshore. [G45.73,46.10 Arathi Highlands] [F Southshore]
 Turn in [QT661].
-Fly to Stormwind. [G49.34,52.27 Hillsbrad Foothills] [F Stormwind]
+[A Mage] [SP3561] Cast Teleport: Stormwind.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Fly to Stormwind. [G49.34,52.27 Hillsbrad Foothills] [F Stormwind]
 Turn in [QT697].
 [XP38] Reach level 38 before training and the next journey.
 [A Priest] [G49.53,44.60 Stormwind City] [T] At High Priestess Laurena, learn Flash Heal IV and Renew VI (1g 20s each).

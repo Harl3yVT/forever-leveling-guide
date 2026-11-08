@@ -132,35 +132,37 @@ Collect ten Spotted Sunfish and eight Murloc Fins from the western shore camps f
 Turn in [QT127] and [QT150].
 Accept [QA128].
 [V] Repair and restock before leaving Lakeshire.
-[G69.30,84.04 Redridge Mountains] Follow the southern lakeshore road to the Render's Valley approach and form a party for the axes, supplies and Incinerator Gar'im.
-[G69.30,84.04 Redridge Mountains] Kill Grunts and Outrunners for ten Battleworn Axes; collect eight Stolen Weapons from racks and loose weapons, and ten Blackrock Supplies from containers in the lower Render's Valley camps for [QC20] and [QC98387].
-Enter the cave with the party, defeat Incinerator Gar'im and loot his broken staff for [QC95999].
+[OC] The group quests below (Render's Valley, Bellygrub, Yowler, Render's Rock, Keeshan, Stonewatch, Fangore) are optional. No group? Skip them and grind to the level checkpoints. The 25-28 Duskwood chapter brings you back through Lakeshire at 25+, when they are easier with two or three players.
+[G69.30,84.04 Redridge Mountains] Follow the southern lakeshore road to the Render's Valley approach and form a party for the axes, supplies and Incinerator Gar'im. [O]
+[G69.30,84.04 Redridge Mountains] Kill Grunts and Outrunners for ten Battleworn Axes; collect eight Stolen Weapons from racks and loose weapons, and ten Blackrock Supplies from containers in the lower Render's Valley camps for [QC20] and [QC98387]. [O]
+Enter the cave with the party, defeat Incinerator Gar'im and loot his broken staff for [QC95999]. [O]
 [H Lakeshire] [O] Hearth to Lakeshire if ready; otherwise return by the southern lakeshore road.
 Turn in [QT95999].
 Turn in [QT20] and [QT98387], then accept [QA115] and [QA19].
 [XP21] Reach level 21 before the northern group circuit. If short, hunt isolated Greater Tarantulas around Alther's Mill, then return to Lakeshire.
-At Bellygrub's field, form a party to kill level-24 Bellygrub and loot his tusk for [QC34].
-[G22.56,21.38 Redridge Mountains] At the northern camp approach, form a party for Yowler and Render's Rock, including Keeshan's escort.
-Clear Yowler's guards, then kill him and loot his paw for [QC126].
-Enter Render's Rock together and kill fifteen Blackrock Champions for [QC128]. Keep the entrance route clear.
-Find Corporal Keeshan inside the cave. Confirm everyone is ready before speaking to him and accepting [QA219].
-Escort Keeshan back to Lakeshire; stay with him and protect him through the road ambushes for [QC219].
+At Bellygrub's field, form a party to kill level-24 Bellygrub and loot his tusk for [QC34]. [O]
+[G22.56,21.38 Redridge Mountains] At the northern camp approach, form a party for Yowler and Render's Rock, including Keeshan's escort. [O]
+Clear Yowler's guards, then kill him and loot his paw for [QC126]. [O]
+Enter Render's Rock together and kill fifteen Blackrock Champions for [QC128]. Keep the entrance route clear. [O]
+Find Corporal Keeshan inside the cave. Confirm everyone is ready before speaking to him and accepting [QA219]. [O]
+Escort Keeshan back to Lakeshire; stay with him and protect him through the road ambushes for [QC219]. [O]
 Turn in [QT219].
 Turn in [QT126].
 Turn in [QT34].
 Turn in [QT128].
 [XP22] Reach level 22 before Stonewatch and the eastern gnoll camps. If short, hunt isolated level 21-22 gnolls outside the cleared northern camps.
 [V] Repair and restock before leaving Lakeshire.
-[G64.36,59.41 Redridge Mountains] At Stonewatch's approach, form a party for Tharil'zun, Gath'Ilzogg and the Shadowcasters.
-Approach Stonewatch together; clear the guards, defeat Tharil'zun and loot his head for [QC19].
-Clear the keep with the party, defeat Gath'Ilzogg and loot his head for [QC169]. Leave Morganth's separate tower.
-Collect three Midnight Orbs from Blackrock Shadowcasters during the same clear for [QC115].
-At the eastern gnoll-camp approach, form a party for Fangore and the pendant hunt. Collect ten Shadowhide Pendants, kill Lieutenant Fangore and loot his paw for [QC91] and [QC180]; avoid Rohh the Silent.
+[G64.36,59.41 Redridge Mountains] At Stonewatch's approach, form a party for Tharil'zun, Gath'Ilzogg and the Shadowcasters. [O]
+Approach Stonewatch together; clear the guards, defeat Tharil'zun and loot his head for [QC19]. [O]
+Clear the keep with the party, defeat Gath'Ilzogg and loot his head for [QC169]. Leave Morganth's separate tower. [O]
+Collect three Midnight Orbs from Blackrock Shadowcasters during the same clear for [QC115]. [O]
+At the eastern gnoll-camp approach, form a party for Fangore and the pendant hunt. Collect ten Shadowhide Pendants, kill Lieutenant Fangore and loot his paw for [QC91] and [QC180]; avoid Rohh the Silent. [O]
 [H Lakeshire] [O] Hearth to Lakeshire if ready; otherwise return by road.
 Turn in [QT91].
 Turn in [QT169] and [QT180].
 Turn in [QT115] and [QT19].
-[G25.50,59.41 Redridge Mountains] [F Stormwind]
+[A Mage] [SP3561] Cast Teleport: Stormwind.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] [G25.50,59.41 Redridge Mountains] [F Stormwind]
 [A Priest] [G49.53,44.60 Stormwind City] [T] At High Priestess Laurena, learn Mind Blast III and Heal II (33s each). Resurrection II and Smite IV can wait if gold is short.
 [V] Repair and restock.
 [G39.24,84.96 Stormwind City] [T] [A Warlock] Train Drain Life II, Create Healthstone II, Curse of Weakness III and Eye of Kilrogg.

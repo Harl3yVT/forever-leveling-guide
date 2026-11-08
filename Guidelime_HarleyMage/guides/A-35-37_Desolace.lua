@@ -6,8 +6,8 @@ Guidelime.registerGuide([[
 [NX 37-38 Arathi Highlands (Harley)]
 [A Mage] [O] Talents: From 36 to 39, spend points as the Questing Frost build lists them. The MageKit talent button (/mk talents) shows the next pick.
 [A Mage] [OC] Rotation: Frostbolt to pull, Frost Nova, then shatter with Frostbolt or Ice Lance. A Fingers of Frost proc makes your next Ice Lance hit as if the target were frozen. Cone of Cold for packs; Cold Snap resets Frost Nova when a pull goes wrong. Ice Armor while questing, Mage Armor for long mana-heavy grinds.
-Start in Darnassus after the Thousand Needles journey. Keep Reclaimers' Business in Desolace, Brother Anton, Mythology of the Titans and the Southshore letters.
-Portal to Rut'theran and boat to Auberdine. Follow the road south into Ashenvale and east to Astranaar. [G34.41,48.00 Ashenvale] [P Astranaar]
+Start in Auberdine (or Darnassus) after the Thousand Needles journey. Keep Reclaimers' Business in Desolace, Brother Anton, Mythology of the Titans and the Southshore letters.
+If you're in Darnassus, portal to Rut'theran and boat to Auberdine. Follow the road south into Ashenvale and east to Astranaar. [G34.41,48.00 Ashenvale] [P Astranaar]
 [G49.48,67.09 Ashenvale] [LE Cooking 225-] [O] Follow the road southeast to Shandrina at Silverwind Refuge beside Mystral Lake. Buy and use Expert Cookbook (125 Cooking); skip if not ready.
 Follow the road southwest to the Talondeep Path; traverse its tunnel into Stonetalon. Keep clear of Sun Rock Retreat and follow the western mountain road south to Desolace. [G42.59,71.58 Ashenvale]
 [G64.66,10.54 Desolace] [P Nijel's Point] Take the eastern ramp into Nijel's Point before visiting its quest givers.

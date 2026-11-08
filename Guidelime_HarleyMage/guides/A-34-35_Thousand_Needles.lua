@@ -62,7 +62,8 @@ Turn in [QT1111], then accept [QA1112]; keep the parts for the next Shimmering F
 Turn in [QT1178], then accept [QA1180].
 Take the Booty Bay ship. Turn in [QT1180], then accept [QA1181].
 Turn in [QT1181], then accept [QA1182]; keep the blueprint task for the later northern Stranglethorn circuit.
-Fly to Stormwind. [G27.52,77.79 Stranglethorn Vale] [F Stormwind]
+[A Mage] [SP3561] Cast Teleport: Stormwind.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Fly to Stormwind. [G27.52,77.79 Stranglethorn Vale] [F Stormwind]
 [A Priest] [G49.53,44.60 Stormwind City] [T] At High Priestess Laurena, learn Divine Grace IV, Heal IV, Mind Blast V and Shadow Word: Pain V (90s each).
 [G49.53,44.60 Stormwind City] [T] [O] If gold allows, also learn Levitate and Resurrection III (90s each); keep a few Light Feathers for Levitate. They can wait.
 Turn in [QT98156] to Kimberly Grant if you carry the package. [O]
@@ -77,10 +78,11 @@ Turn in [QT98156] to Kimberly Grant if you carry the package. [O]
 [A Druid] [G35.84,67.38 Stormwind City] [T] At Sheldras Moontree, learn Maul IV, Moonfire VI, Rake II, Rejuvenation VI, Starfire III, Swipe III and Thorns IV. Learn Lacerate II when talented.
 Accept [QA6141].
 [V] Repair, restock and train available abilities and chosen professions.
-Take the tram to Ironforge.
+[A Shaman] Take the tram to Ironforge.
 [A Shaman] [G47.14,13.52 Ironforge] [T] At Eldrun Stormbreaker, learn Frost Shock II, Rockbiter Weapon V, Sentry Totem and Stoneskin Totem IV.
-Fly to Menethil and take the Auberdine ship. From Auberdine, boat to Rut'theran and use the Darnassus portal.
-[G69.54,67.75 Darnassus] Turn in [QT1142] if you recovered the pendant during the clear.
+[A Shaman] Take the Deeprun Tram back to Stormwind.
+Take the boat at Stormwind Harbor to Auberdine.
+[G69.54,67.75 Darnassus] [O] Only if you looted Treshala's Pendant: take the Rut'theran boat from Auberdine and the portal into Darnassus, then turn in [QT1142]. Otherwise skip it; it's a level-30 quest and worth little now.
 [A Warrior,Hunter,Rogue] [G57.56,46.73 Darnassus] [T] [LE Bows 1-] [O] At Ilyenia Moonfire, learn Bows if needed for a weapon you plan to use.
-Finish in Darnassus. Keep the Desolace and Scarlet Monastery deliveries, Southshore letters and carried Stranglethorn/Flats quests.
+Finish in Auberdine, or in Darnassus if you took the pendant detour. Keep the Desolace and Scarlet Monastery deliveries, Southshore letters and carried Stranglethorn/Flats quests.
 ]], "Harley Mage")

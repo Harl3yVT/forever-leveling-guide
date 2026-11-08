@@ -120,9 +120,10 @@ Turn in [QT1275].
 [G55.24,23.99 Darnassus] Turn in [QT1199].
 Turn in [QT1200].
 [A Priest,Mage,Warlock] Choose the Gravestone Scepter as your reward; it is your next wand.
-Portal back to Rut'theran; boat to Auberdine, then Menethil. Stay aboard through Southshore if it is an intermediate stop.
-Turn in [QT98461] to Tarrel Rockweaver north of the harbor.
-Fly to Ironforge for the manuscript delivery. [G9.49,59.69 Wetlands] [F Ironforge]
+[A Mage] [SP3562] Cast Teleport: Ironforge for the manuscript delivery. Keep Hollee's find for the next Menethil visit.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Portal back to Rut'theran; boat to Auberdine, then Menethil. Stay aboard through Southshore if it is an intermediate stop.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Turn in [QT98461] to Tarrel Rockweaver north of the harbor.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Fly to Ironforge for the manuscript delivery. [G9.49,59.69 Wetlands] [F Ironforge]
 Turn in [QT971].
 [A Priest,Mage,Warlock] [O] At 25, craft the level-25 Pristine Tailoring pieces. If your Enchanting skill allows, make Soulstaff (level 25, bind on pickup, up to +34 spell damage and healing). It probably beats your current weapon.
 Finish in Ironforge at 25+. Keep the Duskwood quests, statuette investigation, second raptor hunt and both Excavation quests.

@@ -12,6 +12,19 @@ Collect ten Ghoul Fangs, ten Skeleton Fingers and five Vials of Spider Venom dur
 Take the tram to Stormwind, then fly to Lakeshire. [G70.95,72.51 Stormwind City] [F Lakeshire]
 Accept [QA95772].
 Accept [QA386].
+[OC] Redridge catch-up: if you skipped any Redridge group quests, do them now with a group before flying to Darkshire. Steps you already finished hide themselves.
+Kill Grunts and Outrunners for ten Battleworn Axes; collect eight Stolen Weapons and ten Blackrock Supplies in the lower Render's Valley camps for [QC20] and [QC98387]. [O]
+Defeat Incinerator Gar'im in the Render's Valley cave and loot his broken staff for [QC95999]. [O]
+Turn in [QT95999]. [O]
+Turn in [QT20] and [QT98387], then accept [QA115] and [QA19]. [O]
+Kill Bellygrub and loot his tusk for [QC34]. [O]
+Kill Yowler at the northern camp and loot his paw for [QC126]. [O]
+Kill fifteen Blackrock Champions in Render's Rock for [QC128]. [O]
+Find Corporal Keeshan inside Render's Rock, accept [QA219] and escort him back to Lakeshire for [QC219]. [O]
+Defeat Tharil'zun at Stonewatch for [QC19], clear the keep and defeat Gath'Ilzogg for [QC169], and collect three Midnight Orbs from Shadowcasters for [QC115]. [O]
+Collect ten Shadowhide Pendants and kill Lieutenant Fangore in the eastern gnoll camps for [QC91] and [QC180]. [O]
+Turn in [QT219], [QT126], [QT34] and [QT128]. [O]
+Turn in [QT91], [QT169], [QT180], [QT115] and [QT19]. [O]
 Fly to Darkshire. [G25.50,59.41 Redridge Mountains] [F Darkshire]
 [G73.87,44.41 Duskwood] [S Darkshire] Bind for western cemetery/story returns; keep Darkshire bound during city trips.
 [A Hunter] [G74.02,46.11 Duskwood] Stable your companion with Steven Black, keeping a free slot for the training tame.
@@ -134,7 +147,8 @@ Turn in [QT253].
 Turn in [QT225], then accept [QA227].
 Turn in [QT58] and [QT227], then accept [QA228]; keep it for the level-32 cemetery outing.
 [UI2794] Use your personally dropped Old History Book for the upcoming library delivery, then accept [QA337]. [O]
-Fly to Stormwind. [G77.48,44.28 Duskwood] [F Stormwind]
+[A Mage] [SP3561] Cast Teleport: Stormwind.
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid] Fly to Stormwind. [G77.48,44.28 Duskwood] [F Stormwind]
 [G73.23,35.58 Stormwind City] Bring a party for level-31 Lescovar and level-30 Marzon, then accept [QA434]. [O]
 [G72.80,35.61 Stormwind City] Speak to Tyrion to start the event. Stay for the conversation, then defeat Lescovar and Marzon with the party for [QC434]. [O]
 [G66.03,74.10 Stormwind City] Turn in [QT434].

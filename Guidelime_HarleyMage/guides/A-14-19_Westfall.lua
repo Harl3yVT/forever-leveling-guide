@@ -26,8 +26,14 @@ Guidelime.registerGuide([[
 [A Skyborne] [G55.09,58.26 Ironforge] [LE First Aid 150-] [O] Train Journeyman First Aid with Nissa Firestone (50 skill); skip if not ready.
 [A Skyborne] [G60.08,36.43 Ironforge] [LE Cooking 150-] [O] Train Journeyman Cooking with Daryl Riknussun (50 skill); skip if not ready.
 [A Skyborne] [G48.07,6.91 Ironforge] [LE Fishing 150-] [O] Train Journeyman Fishing with Grimnur Stonebrand (50 skill); skip if not ready.
+Accept [QA6661] from Monty on the Ironforge tram platform. [O]
+Use the Rat Catcher's Flute to lead five Deeprun Rats back to Monty for [QC6661]. [O]
+Turn in [QT6661]. [O]
 Take the Deeprun Tram to Stormwind's Dwarven District. Shoni's dungeon quest needs no Ironforge breadcrumb trip.
 [G64.62,37.23 Stormwind City] Turn in [QT1338] if carrying Stormpike's Request.
+Accept [QA97220] from Manifest Clerk Philmor. [O]
+Turn in [QT97220] at Trias' Cheese in the Trade District, then accept [QA97222]. [O]
+Carry the Gatehouse Shipment up the stairs in Trias' shop for [QC97222], then turn in [QT97222]. [O]
 Accept [QA399] from Baros Alexston in Cathedral Square. His compass is in his old house in Westfall. [O]
 Accept [QA97234] from Roy Lewells in the Mage Quarter park. [O]
 [A Mage] [G49.56,85.80 Stormwind City] [O] Learn Tailoring and Enchanting in the Mage Quarter if you don't have them yet.
